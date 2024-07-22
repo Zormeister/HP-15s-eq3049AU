@@ -1,0 +1,76 @@
+[    0.583366]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::init: enabling legacy matching
+[    0.807872]: HS04@60400000: AppleUSBHostPort::enumerateDeviceComplete_block_invoke: enumerated 0x0bda/b00c/0000 (Bluetooth Radio / 1) at 12 Mbps
+[    0.807901]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: controller <ptr> (XHC0) usbServiceArray <ptr>(count 1) options 0x00000000
+[    0.807909]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: [0] <ptr>
+[    0.807913]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: controller <ptr> (XHC0) usbService <ptr> (Bluetooth Radio) options 0x00000000
+[    0.807923]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: creating AppleUSBController@60000000
+[    0.808408]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallGated: IOUSBHostDevice <ptr> (Bluetooth Radio)
+[    0.808424]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::addDeviceToUsbPlane: 
+[    0.808671]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: usbServiceCallbackGated completed with 0x00000000 and service <ptr>
+[    0.808679]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: registering Bluetooth Radio@60400000 (<ptr>) for matching
+[    0.878361]: HS03@60300000: AppleUSBHostPort::enumerateDeviceComplete_block_invoke: enumerated 0x05c8/0b05/0004 (HP True Vision HD Camera / 2) at 480 Mbps
+[    0.878390]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: controller <ptr> (XHC0) usbServiceArray <ptr>(count 1) options 0x00000000
+[    0.878397]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: [0] <ptr>
+[    0.878401]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: controller <ptr> (XHC0) usbService <ptr> (HP True Vision HD Camera) options 0x00000000
+[    0.878416]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: located existing AppleUSBController@60000000
+[    0.878422]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallGated: IOUSBHostDevice <ptr> (HP True Vision HD Camera)
+[    0.878438]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::addDeviceToUsbPlane: 
+[    0.878697]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: usbServiceCallbackGated completed with 0x00000000 and service <ptr>
+[    0.878707]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: registering HP True Vision HD Camera@60300000 (<ptr>) for matching
+[    0.880453]: HP True Vision HD Camera(0x10000034a): matching deferred by AppleUSBCDCCompositeDevice
+[   11.953048]: HP True Vision HD Camera@60300000: IOUSBHostDevice::setConfigurationGated: AppleUSBHostCompositeDevice selected configuration 1
+[   11.963345]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: controller <ptr> (XHC0) usbServiceArray <ptr>(count 2) options 0x00000000
+[   11.963351]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: [0] <ptr>
+[   11.963354]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: controller <ptr> (XHC0) usbService <ptr> (HP True Vision HD Camera) options 0x00000000
+[   11.963369]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: located existing AppleUSBController@60000000
+[   11.963373]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallGated: IOUSBHostInterface <ptr> (HP True Vision HD Camera)
+[   11.963498]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: usbServiceCallbackGated completed with 0x00000000 and service <ptr>
+[   11.963505]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: registering HP True Vision HD Camera@0 (<ptr>) for matching
+[   12.150015]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: [1] <ptr>
+[   12.150020]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: controller <ptr> (XHC0) usbService <ptr> (IOUSBHostInterface) options 0x00000000
+[   12.150087]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: located existing AppleUSBController@60000000
+[   12.150091]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallGated: IOUSBHostInterface <ptr> (IOUSBHostInterface)
+[   12.150415]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: usbServiceCallbackGated completed with 0x00000000 and service <ptr>
+[   12.150423]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: registering AppleUSBInterface@1 (<ptr>) for matching
+[   12.152011]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: located existing AppleUSBController@60000000
+[   12.225251]: Found class: AppleUserUSBHostHIDDevice
+[   12.226475]: Found class: IOUSBHostDevice
+[   12.226493]: Found class: IOUSBHostInterface
+[   12.226497]: Found class: IOUSBHostPipe
+[   12.227131]: Found class: IOUserUSBHostHIDDevice
+[   12.227135]: Found class: OSAction_IOUserUSBHostHIDDevice_CompleteInputReport
+[   12.227138]: Found class: OSAction_IOUserUSBHostHIDDevice_CompleteOutputReport
+[   12.227140]: Found class: OSAction_IOUserUSBHostHIDDevice_CompleteOutputRequest
+[   12.227143]: Found class: OSAction_IOUserUSBHostHIDDevice_TimerOccurred
+[   12.227146]: Found class: OSAction_IOUserUSBHostHIDDevice_CompleteZLP
+[   13.283047]: Sandbox: com.apple.AmbientDisplayAgent(375) deny(1) mach-lookup com.apple.windowserver1 duplicate report for Sandbox: com.apple.AmbientDisplayAgent(375) deny(1) mach-lookup com.apple.windowserverSandbox: WindowServer(160) deny(1) job-creationBluetooth Radio@60400000: IOUSBHostDevice::setConfigurationGated: pid 154, bluetoothd selected configuration 1
+[   13.311876]: Sandbox apply: bluetoothd[154] <bytes>AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: controller <ptr> (XHC0) usbServiceArray <ptr>(count 2) options 0x00000000
+[   13.313788]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: [0] <ptr>
+[   13.313791]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: controller <ptr> (XHC0) usbService <ptr> (Bluetooth Radio) options 0x00000000
+[   13.313809]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: located existing AppleUSBController@60000000
+[   13.313813]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallGated: IOUSBHostInterface <ptr> (Bluetooth Radio)
+[   13.314250]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: usbServiceCallbackGated completed with 0x00000000 and service <ptr>
+[   13.314263]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: registering Bluetooth Radio@0 (<ptr>) for matching
+[   13.314598]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallback: [1] <ptr>
+[   13.314600]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: controller <ptr> (XHC0) usbService <ptr> (Bluetooth Radio) options 0x00000000
+[   13.314607]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: located existing AppleUSBController@60000000
+[   13.314609]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCallGated: IOUSBHostInterface <ptr> (Bluetooth Radio)
+[   13.314719]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: usbServiceCallbackGated completed with 0x00000000 and service <ptr>
+[   13.314722]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::usbServiceCall: registering Bluetooth Radio@1 (<ptr>) for matching
+[   13.314857]: AppleUSBLegacyRoot@: AppleUSBLegacyRoot::getOrCreateLegacyControllerGated: located existing AppleUSBController@60000000
+[   15.984398]: Sandbox: UARPUpdaterServiceDisplay(403) deny(1) file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/com.apple.uarpupdaterservice.display.plist extension-class:com.apple.cfprefsd.readSandbox: UARPUpdaterServiceDisplay(403) deny(1) file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/.GlobalPreferences.plist extension-class:com.apple.cfprefsd.readSandbox: UARPUpdaterServiceDisplay(403) deny(1) file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/.GlobalPreferences_m.plist extension-class:com.apple.cfprefsd.readSandbox apply: UARPUpdaterServiceAFU[406] <bytes>Sandbox apply: UARPUpdaterServiceLegacyAudio[407] <bytes>Sandbox apply: UARPUpdaterServiceHID[404] <bytes>Sandbox: UARPUpdaterServiceLegacyAudio(407) allow file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/com.apple.UARPUpdaterServiceLegacyAudio.plist extension-class:com.apple.cfprefsd.readSandbox: UARPUpdaterServiceLegacyAudio(407) allow file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/.GlobalPreferences.plist extension-class:com.apple.cfprefsd.readSandbox: UARPUpdaterServiceLegacyAudio(407) allow file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/.GlobalPreferences_m.plist extension-class:com.apple.cfprefsd.readSandbox: dasd(143) deny(1) mach-lookup com.apple.OSIntelligence.chargingSandbox apply: UARPUpdaterServiceUSBPD[402] <bytes>Sandbox: UARPUpdaterServiceUSBPD(402) allow file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/com.apple.UARPUpdaterServiceUSBPD.plist extension-class:com.apple.cfprefsd.readSandbox: UARPUpdaterServiceUSBPD(402) allow file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/.GlobalPreferences.plist extension-class:com.apple.cfprefsd.readSandbox: UARPUpdaterServiceUSBPD(402) allow file-issue-extension target:/private/var/db/accessoryupdater/Library/Preferences/.GlobalPreferences_m.plist extension-class:com.apple.cfprefsd.readSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccd.system1 duplicate report for Sandbox: systemstats(100) deny(1) mach-lookup com.apple.tccd.systemSandbox: systemstats(100) deny(1) mach-lookup com.apple.server.bluetooth.le.att.xpcSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccdSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccd.systemSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccdSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccd.systemSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccdSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccd.systemSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccdSandbox: systemstats(100) deny(1) mach-lookup com.apple.tccd.systemCouldn't build index for com.apple.sysmond: Not eligible for acceleration
+[   23.322677]: AppleUSBIORequest: AppleUSBIORequest::complete: device 2 (HP True Vision HD Camera@60300000) endpoint 0x00: status 0xe0005000 (pipe stalled): 0 bytes transferred
+[   23.356804]: AppleUSBIORequest: AppleUSBIORequest::complete: device 2 (HP True Vision HD Camera@60300000) endpoint 0x00: status 0xe0005000 (pipe stalled): 0 bytes transferred
+[   23.357548]: AppleUSBIORequest: AppleUSBIORequest::complete: device 2 (HP True Vision HD Camera@60300000) endpoint 0x00: status 0xe0005000 (pipe stalled): 0 bytes transferred
+[   25.061598]: 3 duplicate reports for Sandbox: usernotificationsd(449) deny(1) iokit-open-user-client AppleKeyStoreUserClientSandbox: appleeventsd(382) deny(1) job-creationVoodooI2CPrecisionTouchpadHIDEventDriver::setProperties USBMouseStopsTrackpad = 0
+[   41.160598]: Sandbox: gamecontrollerd(427) deny(1) job-creationSandbox apply: nfcd[705] <bytes>Sandbox: nfcd(705) deny(1) file-issue-extension target:/private/var/db/applepay/Library/Preferences/.GlobalPreferences.plist extension-class:com.apple.cfprefsd.readSandbox: nfcd(705) deny(1) file-issue-extension target:/private/var/db/applepay/Library/Preferences/.GlobalPreferences_m.plist extension-class:com.apple.cfprefsd.readSandbox apply: distnoted[703] <bytes>Sandbox: nfcd(705) deny(1) mach-lookup com.apple.nfcd.xpc.homed.uaeventsSandbox: mobileassetd(234) deny(1) file-read-data /Library/Preferences/com.apple.networkextension.uuidcache.plistSpotify@: AppleUSBHostUserClient::openGated: failed to open Bluetooth Radio@60400000: provider is already opened for exclusive access by pid 154, bluetoothd
+[   41.223165]: Spotify@: AppleUSBHostUserClient::openGated: failed to open Bluetooth Radio@60400000: provider is already opened for exclusive access by pid 154, bluetoothd
+[  228.591570]: HS03@60300000: AppleUSBHostPort::terminateDevice: destroying 0x05c8/0b05/0004 (HP True Vision HD Camera): port is powering off
+[  228.591591]: HS04@60400000: AppleUSBHostPort::terminateDevice: destroying 0x0bda/b00c/0000 (Bluetooth Radio): port is powering off
+[  228.592946]: XHC1@80000000: AppleUSBHostController::hardwareExceptionThreadCallGated: 0x00000100 (lost power)
+[  228.594638]: XHC1@80000000: AppleUSBHostController::hardwareExceptionThreadCallGated: attempting recovery
+[  228.594683]: AppleUSBHostLegacyClient::handlePowerDomainDidChangeTo not in power tree
+[  228.594828]: XHC0@60000000: AppleUSBHostController::hardwareExceptionThreadCallGated: 0x00000100 (lost power)
+[  228.594996]: XHC0@60000000: AppleUSBHostController::hardwareExceptionThreadCallGated: attempting recovery
+[  228.639541]: Couldn't build index for com.apple.USBAgent: Not eligible for acceleration
+[  228.774752]: Sandbox apply: USBAgent[840] <bytes>[3:0:0] [Accel] <<< TTL::powerUp() Completed successfully.
