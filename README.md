@@ -4,6 +4,9 @@ an OpenCore EFI built on the aforementioned machine.
 
 This EFI is _Sequoia Ready_.
 
+As always, don't take this EFI as a defacto 'oh yeah it'll 100% work'. Treat it like it could blow up at any minute.
+Always experiment and trial new ideas as they come along.
+
 ## NOTES:
 Due to the threat of the repository getting shot down, I unfortunately can't provide copies of the following:
 - NootedRed
