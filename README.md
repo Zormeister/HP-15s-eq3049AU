@@ -14,7 +14,7 @@ Please download them and insert them into the correct folders.
 
 - `GFX/NootedRed.kext`
 - `Misc/ForgedInvariant.kext`
-- `SMC/SMCRadeonSensors.kext`  TBD: Update to latest.
+- `SMC/SMCRadeonGPU.kext`  TBD: Update to latest.
 - `Misc/RadeonSensor.kext`
 
 AudioDxe is configured to the output paths on my local system. Configure it to your own system.
