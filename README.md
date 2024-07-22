@@ -12,10 +12,10 @@ Due to the threat of the repository getting shot down, I unfortunately can't pro
 
 Please download them and insert them into the correct folders.
 
-`GFX/NootedRed.kext`
-`Misc/ForgedInvariant.kext`
-`SMC/SMCRadeonSensors.kext` - TBD: Update to latest.
-`Misc/RadeonSensor.kext`
+- `GFX/NootedRed.kext`
+- `Misc/ForgedInvariant.kext`
+- `SMC/SMCRadeonSensors.kext`  TBD: Update to latest.
+- `Misc/RadeonSensor.kext`
 
 AudioDxe is configured to the output paths on my local system. Configure it to your own system.
 
@@ -48,7 +48,7 @@ Using Smokeless UMAF-BETA, I changed the UMA Framebuffer to 2GB.
 - USB after wakeup, regardless of OS version (verified to occur on Sonoma and Sequoia)
 
 Current System Configuration:
-Two Kingston RAM modules @ 3200 MHz (DDR4) totalling to 16GB of RAM,
-A Ryzen 5 5625U w/ 6 cores & 12 threads,
-An RTL8822CE WLAN card,
-BIOS version F.18.
+- Two Kingston RAM modules @ 3200 MHz (DDR4) totalling to 16GB of RAM,
+- A Ryzen 5 5625U w/ 6 cores & 12 threads,
+- An RTL8822CE WLAN card,
+- BIOS version F.18.
