@@ -1,0 +1,1393 @@
+      dev: @ (DBG) found root device memory
+Lilu       dev: @ (DBG) found root device rom
+Lilu       dev: @ (DBG) found root device PCI0
+Lilu       dev: @ (DBG) found PCI root PCI0
+Lilu       dev: @ (DBG) pci bridge PCI0 is configured 0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device AMDN 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device GPP1 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device GPP5 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device GP18 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device GP19 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device S900 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device D01E 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device GPP0 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device BR32 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device BR33 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData class-code was not found
+Lilu       dev: @ (DBG) found pci device IC03 0x0 0x0
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device D003 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 80600 value
+Lilu       dev: @ (DBG) found pci device IOMA 0x1022 0x80600
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P010 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P020 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60400 value
+Lilu       dev: @ (DBG) found pci device GPP4 0x1022 0x60400
+Lilu       dev: @ (DBG) found pci bridge GPP4
+Lilu       dev: @ (DBG) pci bridge GPP4 is configured 0
+Lilu       dev: @ (DBG) found D00A on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found WLAN on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 10EC value
+Lilu     iokit: @ (DBG) getOSData class-code has 28000 value
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60400 value
+Lilu       dev: @ (DBG) found pci device GPP6 0x1022 0x60400
+Lilu       dev: @ (DBG) found pci bridge GPP6
+Lilu       dev: @ (DBG) pci bridge GPP6 is configured 0
+Lilu       dev: @ (DBG) found NVME on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 15B7 value
+Lilu     iokit: @ (DBG) getOSData class-code has 10802 value
+Lilu       dev: @ (DBG) found IONVMeController on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found IONVMeBlockStorageDevice on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found WD_BLACK SN750 SE 500GB Media on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found EFI System Partition on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found Untitled 2 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found Basic data partition on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found Basic data partition on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found Untitled 5 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P080 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60400 value
+Lilu       dev: @ (DBG) found pci device GP17 0x1022 0x60400
+Lilu       dev: @ (DBG) found pci bridge GP17
+Lilu       dev: @ (DBG) pci bridge GP17 is configured 0
+Lilu       dev: @ (DBG) found MP2C on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found VGA on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1002 value
+Lilu     iokit: @ (DBG) getOSData class-code has 30000 value
+Lilu       dev: @ (DBG) found GFX0 device VGA at GP17 by 1002
+Lilu       dev: @ (DBG) found LCD on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found HDAU on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1002 value
+Lilu     iokit: @ (DBG) getOSData class-code has 40300 value
+Lilu       dev: @ (DBG) found audio device HDAU at GP17 by 1002
+Lilu       dev: @ (DBG) found APSP on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 108000 value
+Lilu       dev: @ (DBG) found XHC0 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has C0330 value
+Lilu       dev: @ (DBG) found RHUB on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT1 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT2 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT3 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found CAM3 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT4 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT5 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT6 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found XHC1 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has C0330 value
+Lilu       dev: @ (DBG) found RHUB on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT1 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT2 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT3 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT4 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT5 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found PRT6 on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id was not found
+Lilu       dev: @ (DBG) found ACP on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 48000 value
+Lilu       dev: @ (DBG) found AZAL on pci bridge
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 40300 value
+Lilu       dev: @ (DBG) found audio device AZAL at GP17 by 1022
+Lilu       dev: @ (DBG) marking audio device as HDEF at AZAL
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has C0500 value
+Lilu       dev: @ (DBG) found pci device D01B 0x1022 0xc0500
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60100 value
+Lilu       dev: @ (DBG) found pci device SBRG 0x1022 0x60100
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P180 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P181 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P182 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P183 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P184 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P185 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P186 0x1022 0x60000
+Lilu     iokit: @ (DBG) getOSData vendor-id has 1022 value
+Lilu     iokit: @ (DBG) getOSData class-code has 60000 value
+Lilu       dev: @ (DBG) found pci device P187 0x1022 0x60000
+Lilu       dev: @ (DBG) found root device PWRB
+Lilu       dev: @ (DBG) found root device PLTF
+Lilu       dev: @ (DBG) found root device LNKA
+Lilu       dev: @ (DBG) found root device LNKB
+Lilu       dev: @ (DBG) found root device LNKC
+Lilu       dev: @ (DBG) found root device LNKD
+Lilu       dev: @ (DBG) found root device LNKE
+Lilu       dev: @ (DBG) found root device LNKF
+Lilu       dev: @ (DBG) found root device LNKG
+Lilu       dev: @ (DBG) found root device LNKH
+Lilu       dev: @ (DBG) found root device GPIO
+Lilu       dev: @ (DBG) found root device I2CA
+Lilu       dev: @ (DBG) found root device I2CD
+Lilu       dev: @ (DBG) found root device TPM
+Lilu       dev: @ (DBG) found root device ACDC
+Lilu       dev: @ (DBG) found root device WMID
+Lilu       dev: @ (DBG) found root device BAT0
+Lilu       dev: @ (DBG) found root device ACAD
+Lilu       dev: @ (DBG) found root device LID
+Lilu       dev: @ (DBG) found root device AWR0
+Lilu       dev: @ (DBG) found root device HPET
+Lilu       dev: @ (DBG) found root device AOD
+Lilu       dev: @ (DBG) found root device PNLF
+Lilu       dev: @ (DBG) found root device AppleEFINVRAM
+Lilu     iokit: @ (DBG) getOSData apple-layout-id was not found
+Lilu     iokit: @ (DBG) getOSData AAPL,ig-platform-id was not found
+Lilu      mach: @ (DBG) found symbol _cs_validate_range at 0xffffff800b0b7c70 (non-aslr 0xffffff80008b7c70), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B0B7C70 to 0xFFFFFF7F91053ED0 diff 0xFFFFFFFF85F9C25B argument 85F9C25B
+Lilu   patcher: @ (DBG) using slotted jumping via 0xFFFFFF800AA00FF0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25156 to 0xFFFFFF800B0B7C76 diff 0x000000007A192B1B argument 7A192B1B
+Lilu   patcher: @ (DBG) wrapped _cs_validate_range
+Lilu      mach: @ (DBG) found symbol _kernel_trap at 0xffffff800ac47420 (non-aslr 0xffffff8000447420), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF800AC47420 to 0xFFFFFF7F91042070 diff 0xFFFFFFFF863FAC4B argument 863FAC4B
+Lilu   patcher: @ (DBG) using slotted jumping via 0xFFFFFF800AA00FF8
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F2516A to 0xFFFFFF800AC47426 diff 0x0000000079D222B7 argument 79D222B7
+Lilu   patcher: @ (DBG) wrapped _kernel_trap
+Lilu       dev: @ (DBG) processing 0 external GPUs to disable - selective
+Lilu     iokit: @ (DBG) getOSData disable-gpu-min was not found
+Lilu     iokit: @ (DBG) getOSData disable-gpu-max was not found
+Lilu       dev: @ (DBG) disable VGA GPU request from 0 to 19 on 19 kernel
+Lilu       dev: @ (DBG) pci device VGA is in service plane 0
+Lilu     iokit: @ (DBG) read pci config discovered VGA space to be 0x00030000
+Lilu     iokit: @ (DBG) compatible property starts with pci103c,89fc and is 46 bytes
+Lilu     iokit: @ (DBG) fixing compatible to have IGPU
+Lilu       dev: @ (DBG) pci device IGPU is in service plane 0
+Lilu       dev: @ (DBG) pci device IGPU is in service plane 0
+Lilu     iokit: @ (DBG) read pci config discovered IGPU space to be 0x00030000
+Lilu       dev: @ (DBG) pci device IGPU is in service plane 0
+Lilu     iokit: @ (DBG) read pci config discovered IGPU space to be 0x00030000
+NootedRed      NRed: @ (DBG) Fetching VBIOS from VFCT table
+NootedRed      NRed: @ (DBG) ATOMBIOS detected
+NootedRed      NRed: @ (DBG) Padding VBIOS to 65536 bytes (was 55296)
+Lilu      mach: @ (DBG) found symbol __ZN15OSMetaClassBase12safeMetaCastEPKS_PK11OSMetaClass at 0xffffff800b191260 (non-aslr 0xffffff8000991260), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B191260 to 0xFFFFFF7F910FCDD0 diff 0xFFFFFFFF85F6BB6B argument 85F6BB6B
+Lilu   patcher: @ (DBG) using slotted jumping via 0xFFFFFF800AA01000
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F2517E to 0xFFFFFF800B191266 diff 0x000000007A26C0E3 argument 7A26C0E3
+Lilu   patcher: @ (DBG) wrapped __ZN15OSMetaClassBase12safeMetaCastEPKS_PK11OSMetaClass
+Lilu      mach: @ (DBG) found symbol _kernel_debugger_entry_count at 0xffffff800b49d78c (non-aslr 0xffffff8000c9d78c), type f, sect f, desc 0
+[0x30001]AppleGFXHDAControler[0]::probe
+[0x30001]AppleGFXHDAControler[0]::free
+Lilu      mach: @ (DBG) found symbol _gIOKitDebug at 0xffffff800b62cae8 (non-aslr 0xffffff8000e2cae8), type f, sect f, desc 0
+Lilu      mach: @ (DBG) found symbol _vprintf at 0xffffff800ab348b0 (non-aslr 0xffffff80003348b0), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol _kdb_printf at 0xffffff800ab34a90 (non-aslr 0xffffff8000334a90), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol _kprintf at 0xffffff800b29ddf0 (non-aslr 0xffffff8000a9ddf0), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol _hibernate_write_image at 0xffffff800b1ec850 (non-aslr 0xffffff80009ec850), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol _IOHibernateSystemSleep at 0xffffff800b1e9b50 (non-aslr 0xffffff80009e9b50), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF800AB34A90 to 0xFFFFFF7F913563B0 diff 0xFFFFFFFF8682191B argument 8682191B
+Lilu   patcher: @ (DBG) routed _kdb_printf
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B29DDF0 to 0xFFFFFF7F91356420 diff 0xFFFFFFFF860B862B argument 860B862B
+Lilu   patcher: @ (DBG) routed _kprintf
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B1EC850 to 0xFFFFFF7F91356490 diff 0xFFFFFFFF86169C3B argument 86169C3B
+Lilu   patcher: @ (DBG) using slotted jumping via 0xFFFFFF800AA01008
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25192 to 0xFFFFFF800B1EC856 diff 0x000000007A2C76BF argument 7A2C76BF
+Lilu   patcher: @ (DBG) wrapped _hibernate_write_image
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B1E9B50 to 0xFFFFFF7F913564F0 diff 0xFFFFFFFF8616C99B argument 8616C99B
+Lilu   patcher: @ (DBG) using slotted jumping via 0xFFFFFF800AA01010
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F251A6 to 0xFFFFFF800B1E9B56 diff 0x000000007A2C49AB argument 7A2C49AB
+Lilu   patcher: @ (DBG) wrapped _IOHibernateSystemSleep
+Lilu      mach: @ (DBG) found symbol _log_setsize at 0xffffff800b09c240 (non-aslr 0xffffff800089c240), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff800aa00000 of memory 8192 size
+set system log size to 10485760 bytes
+Lilu      mach: @ (DBG) found symbol _xcpm_urgency at 0xffffff800ac5f0f0 (non-aslr 0xffffff800045f0f0), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN14IOPMrootDomain10tracePointEh at 0xffffff800b294f20 (non-aslr 0xffffff8000a94f20), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol _clock_get_calendar_microtime at 0xffffff800ab14950 (non-aslr 0xffffff8000314950), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF800AC5F0F0 to 0xFFFFFF7F9137C970 diff 0xFFFFFFFF8671D87B argument 8671D87B
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F251BA to 0xFFFFFF800AC5F0F6 diff 0x0000000079D39F37 argument 79D39F37
+Lilu   patcher: @ (DBG) wrapped _xcpm_urgency
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B294F20 to 0xFFFFFF7F9137C990 diff 0xFFFFFFFF860E7A6B argument 860E7A6B
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F251CE to 0xFFFFFF800B294F26 diff 0x000000007A36FD53 argument 7A36FD53
+Lilu   patcher: @ (DBG) wrapped __ZN14IOPMrootDomain10tracePointEh
+Lilu   patcher: @ (DBG) from 0xFFFFFF800AB14950 to 0xFFFFFF7F9137CA20 diff 0xFFFFFFFF868680CB argument 868680CB
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F251E2 to 0xFFFFFF800AB14956 diff 0x0000000079BEF76F argument 79BEF76F
+Lilu   patcher: @ (DBG) wrapped _clock_get_calendar_microtime
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AppleSMC.kext/Contents/MacOS/AppleSMC
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AppleSMC.kext/Contents/MacOS/AppleSMC
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.driver.AppleSMC at 1 index
+Lilu      mach: @ (DBG) found symbol _kmod at 0xffffff800b6232c0 (non-aslr 0xffffff8000e232c0), type f, sect f, desc 0
+Lilu   patcher: @ (DBG) _kmod address 0xffffff800b6232c0
+Lilu      mach: @ (DBG) found symbol __ZN6OSKext6unloadEv at 0xffffff800b19cd40 (non-aslr 0xffffff800099cd40), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN6OSKext23saveLoadedKextPanicListEv at 0xffffff800b1a5c00 (non-aslr 0xffffff80009a5c00), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B19CD40 to 0xFFFFFF7F90F21210 diff 0xFFFFFFFF85D844CB argument 85D844CB
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F251F6 to 0xFFFFFF800B19CD46 diff 0x000000007A277B4B argument 7A277B4B
+Lilu   patcher: @ (DBG) wrapped __ZN6OSKext6unloadEv
+Lilu   patcher: @ (DBG) from 0xFFFFFF800B1A5C00 to 0xFFFFFF7F90F212C0 diff 0xFFFFFFFF85D7B6BB argument 85D7B6BB
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25209 to 0xFFFFFF800B1A5C05 diff 0x000000007A2809F7 argument 7A2809F7
+Lilu   patcher: @ (DBG) wrapped __ZN6OSKext23saveLoadedKextPanicListEv
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AppleGraphicsControl.kext/Contents/PlugIns/AppleGraphicsDevicePolicy.kext/Contents/MacOS/AppleGraphicsDevicePolicy
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AppleGraphicsControl.kext/Contents/PlugIns/AppleGraphicsDevicePolicy.kext/Contents/MacOS/AppleGraphicsDevicePolicy
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.driver.AppleGraphicsDevicePolicy at 2 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AppleBacklight.kext/Contents/MacOS/AppleBacklight
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AppleBacklight.kext/Contents/MacOS/AppleBacklight
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.driver.AppleBacklight at 3 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AppleMCCSControl.kext/Contents/MacOS/AppleMCCSControl
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AppleMCCSControl.kext/Contents/MacOS/AppleMCCSControl
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.driver.AppleMCCSControl at 4 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AMDRadeonX6000Framebuffer.kext/Contents/MacOS/AMDRadeonX6000Framebuffer
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AMDRadeonX6000Framebuffer.kext/Contents/MacOS/AMDRadeonX6000Framebuffer
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.kext.AMDRadeonX6000Framebuffer at 5 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AppleGFXHDA.kext/Contents/MacOS/AppleGFXHDA
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AppleGFXHDA.kext/Contents/MacOS/AppleGFXHDA
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.driver.AppleGFXHDA at 6 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AMDRadeonX5000HWServices.kext/Contents/PlugIns/AMDRadeonX5000HWLibs.kext/Contents/MacOS/AMDRadeonX5000HWLibs
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AMDRadeonX5000HWServices.kext/Contents/PlugIns/AMDRadeonX5000HWLibs.kext/Contents/MacOS/AMDRadeonX5000HWLibs
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.kext.AMDRadeonX5000HWLibs at 7 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AMDRadeonX6000.kext/Contents/MacOS/AMDRadeonX6000
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AMDRadeonX6000.kext/Contents/MacOS/AMDRadeonX6000
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.kext.AMDRadeonX6000 at 8 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AMDRadeonX5000.kext/Contents/MacOS/AMDRadeonX5000
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AMDRadeonX5000.kext/Contents/MacOS/AMDRadeonX5000
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.kext.AMDRadeonX5000 at 9 index
+Lilu      mach: @ (DBG) MachInfo asKernel 0 object constructed
+Lilu      mach: @ (DBG) readMachHeader for /System/Library/Extensions/AppleACPIPlatform.kext/Contents/PlugIns/AppleACPIEC.kext/Contents/MacOS/AppleACPIEC
+Lilu      mach: @ (DBG) readMachHeader got magic FEEDFACF
+Lilu      mach: @ (DBG) found executable at path: /System/Library/Extensions/AppleACPIPlatform.kext/Contents/PlugIns/AppleACPIEC.kext/Contents/MacOS/AppleACPIEC
+Lilu      mach: @ (DBG) header processing found TEXT
+Lilu      mach: @ (DBG) header processing found LINKEDIT
+Lilu      mach: @ (DBG) header processing found SYMTAB
+Lilu   patcher: @ (DBG) loaded kinfo com.apple.driver.AppleACPIEC at 10 index
+AMFI: '/private/var/db/dyld/dyld_shared_cache_x86_64h' is adhoc signed.
+port is not ready for callouts
+ALF, old data swfs_pid_entry <ptr>, updaterules_msg <ptr>, updaterules_state <ptr>Reinit'd ND information for interface lo0
+Reinit'd ND information for interface lo0
+sendIONotification:1494: sendIONotification: entered w/ notification e0084006
+sendIONotification:1505: sendIONotification: got service is_v 1 ret 0
+sendIONotification:1494: sendIONotification: entered w/ notification e0084007
+sendIONotification:1505: sendIONotification: got service is_v 1 ret 0
+nx_volume_group_get_volume_indices:6236: Found 2 volumes in group 563D0263-63CD-446A-AD27-95D9FAD7BF71
+Sandbox: sqlite3(19) System Policy: deny(1) file-write-data /private/var/db/SystemPolicyConfiguration/KextPolicySandbox: sqlite3(19) System Policy: deny(1) file-write-data /private/var/db/SystemPolicyConfiguration/KextPolicy-walapfs_load_inode_internal:4007: *** reset ino 23914 size back to 3 (from 32768)
+Sandbox: sqlite3(22) System Policy: deny(1) file-write-data /private/var/db/SystemPolicyConfiguration/KextPolicySandbox: sqlite3(22) System Policy: deny(1) file-write-data /private/var/db/SystemPolicyConfiguration/KextPolicy-walSandbox: sqlite3(25) System Policy: deny(1) file-write-data /private/var/db/SystemPolicyConfiguration/KextPolicySandbox: sqlite3(25) System Policy: deny(1) file-write-data /private/var/db/SystemPolicyConfiguration/KextPolicy-walapfs_load_inode_internal:4007: *** reset ino 2061680 size back to 0 (from 4)
+apfs_load_inode_internal:4007: *** reset ino 2061560 size back to 0 (from 3)
+sandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.trustd): deniedSandbox: dirhelper(35) System Policy: deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.trustdsandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.trustd): deniedsandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/TemporaryItems): deniedSandbox: 1 duplicate report for dirhelper deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.trustdSandbox: dirhelper(35) System Policy: deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/TemporaryItemssandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/TemporaryItems): deniedsandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geod/TemporaryItems): deniedSandbox: 1 duplicate report for dirhelper deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/TemporaryItemsSandbox: dirhelper(35) System Policy: deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geod/TemporaryItemssandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geod/TemporaryItems): deniedsandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geod): deniedSandbox: 1 duplicate report for dirhelper deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geod/TemporaryItemsSandbox: dirhelper(35) System Policy: deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geodsandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geod): deniedsandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.AddressBookLocks): deniedSandbox: 1 duplicate report for dirhelper deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/com.apple.geodSandbox: dirhelper(35) System Policy: deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.AddressBookLockssandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.AddressBookLocks): deniedsandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.CalendarLocks): deniedSandbox: 1 duplicate report for dirhelper deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.AddressBookLocksSandbox: dirhelper(35) System Policy: deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.CalendarLockssandboxd rejected approval request from dirhelper for kTCCServiceSystemPolicyAllFiles (/private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.CalendarLocks): deniedKext com.ChefKissInc.RadeonSensor did not stop (return code 0x5).
+Kext com.ChefKissInc.RadeonSensor can't unload - module stop returned 0xdc008017.
+Kext com.ChefKissInc.RadeonSensor did not stop (return code 0x5).
+Kext com.ChefKissInc.RadeonSensor can't unload - module stop returned 0xdc008017.
+ALF, old data swfs_pid_entry <ptr>, updaterules_msg <ptr>, updaterules_state <ptr>ALF, old data swfs_pid_entry <ptr>, updaterules_msg <ptr>, updaterules_state <ptr>apfs_load_inode_internal:4007: *** reset ino 2061511 size back to 0 (from 3782)
+apfs_load_inode_internal:4007: *** reset ino 23724 size back to 0 (from 6079)
+apfs_load_inode_internal:4007: *** reset ino 2061705 size back to 0 (from 111520)
+Couldn't alloc class "RadeonSensor"
+apfs_load_inode_internal:4007: *** reset ino 2005103 size back to 2310304 (from 2326111)
+apfs_load_inode_internal:4007: *** reset ino 23682 size back to 5282234 (from 5282316)
+apfs_load_inode_internal:4007: *** reset ino 2004920 size back to 16096 (from 16507)
+apfs_load_inode_internal:4007: *** reset ino 2061528 size back to 0 (from 21870)
+ALF, old data swfs_pid_entry <ptr>, updaterules_msg <ptr>, updaterules_state <ptr>PMRD: power event 4 args 0x7b95553a71cfaf45 0x0
+apfs_load_inode_internal:4007: *** reset ino 590448 size back to 3 (from 32768)
+PMRD: power event 6 args 0x7b95553a7233b055 0x0
+PMRD: power event 6 args 0x7b95553a7233b055 0x0
+PMRD: tellClientsWithResponse( kIOMessageSystemCapabilityChange, 2 )
+apfs_load_inode_internal:4007: *** reset ino 23789 size back to 3 (from 32768)
+PMRD: destroyed capability client set 0x7b95553a745b63b5
+PMRD: tellClientsWithResponse( kIOMessageSystemCapabilityChange, 3 )
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+PMRD: power event 12 args 0x7b95553a7237ecd5 0x0
+PMRD: SleepWake UUID queued: 72F7E57E-DA9D-4C9F-8494-DE534E99FF56
+Waiting for DSMOS...
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: power event 8 args 0x2 0x0
+PMRD: evaluatePolicy( 2, 0x0 )
+PMRD: getAggressiveness type 0x1 not found
+PMRD: aggressiveness changed: system 0->0, display 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: idle time -> 0 secs (ena 0)
+PMRD: extra sleep timer changed
+PMRD: power event 8 args 0x2 0x0
+PMRD: evaluatePolicy( 2, 0x0 )
+PMRD: aggressiveness changed: system 0->0, display 54
+PMRD: idle time -> 0 secs (ena 0)
+PMRD: extra sleep timer changed
+apfs_load_inode_internal:4007: *** reset ino 590557 size back to 15743 (from 15876)
+PMRD: setDisableClamShellSleep(0)
+apfs_load_inode_internal:4007: *** reset ino 2061534 size back to 0 (from 2558)
+apfs_load_inode_internal:4007: *** reset ino 2061535 size back to 0 (from 8534)
+successfully truncated syncroots to 0 bytessuccessfully truncated syncroot_ancestors to 0 bytesALF, old data swfs_pid_entry <ptr>, updaterules_msg <ptr>, updaterules_state <ptr>successfully truncated network-exemptions to 0 bytesCouldn't alloc class "RadeonSensor"
+Sandbox: 1 duplicate report for dirhelper deny(1) file-write-unlink /private/var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/T/.CalendarLocksSandbox: contextstored(151) deny(1) file-read-data /private/var/root/Library/Preferences/.GlobalPreferences.plistSandbox: contextstored(151) deny(1) file-read-data /Library/Preferences/.GlobalPreferences.plistALF, old data swfs_pid_entry <ptr>, updaterules_msg <ptr>, updaterules_state <ptr>Sandbox: bluetoothd(113) deny(1) file-read-metadata /usrPMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+apfs_load_inode_internal:4007: *** reset ino 24292 size back to 2500872 (from 2579152)
+apfs_load_inode_internal:4007: *** reset ino 23849 size back to 3617392 (from 3650352)
+apfs_load_inode_internal:4007: *** reset ino 23850 size back to 3 (from 32768)
+PMRD: assertionsUser 0x40
+apfs_load_inode_internal:4007: *** reset ino 24085 size back to 1849912 (from 1915832)
+apfs_load_inode_internal:4007: *** reset ino 24086 size back to 3 (from 32768)
+apfs_load_inode_internal:4007: *** reset ino 23874 size back to 3 (from 32768)
+apfs_load_inode_internal:4007: *** reset ino 23881 size back to 1615072 (from 1693352)
+apfs_load_inode_internal:4007: *** reset ino 23882 size back to 3 (from 32768)
+AppleActuatorDeviceUserClient::start Entered
+Sandbox: distnoted(122) deny(1) file-read-metadata /usr/sbin/distnotedSandbox: bluetoothd(113) deny(1) mach-lookup com.apple.server.bluetoothALF, old data swfs_pid_entry <ptr>, updaterules_msg <ptr>, updaterules_state <ptr>AppleActuatorDeviceUserClient::stop Entered
+Sandbox: contextstored(151) deny(1) mach-lookup com.apple.tccd.systemAppleActuatorDeviceUserClient::start Entered
+Sandbox: 1 duplicate report for contextstored deny(1) mach-lookup com.apple.tccd.systemSandbox: tccd(126) deny(1) network-outbound /private/var/run/systemkeychaincheck.socketapfs_load_inode_internal:4007: *** reset ino 23922 size back to 416152 (from 453232)
+apfs_load_inode_internal:4007: *** reset ino 23923 size back to 3 (from 32768)
+apfs_load_inode_internal:4007: *** reset ino 23927 size back to 3 (from 32768)
+apfs_load_inode_internal:4007: *** reset ino 23967 size back to 3868712 (from 3909912)
+apfs_load_inode_internal:4007: *** reset ino 23968 size back to 3 (from 32768)
+unexpected session: 100000 uid: -1 requested by: 58
+AppleKeyStore: operation failed (pid: 58 sel: 7 ret: e00002c2 '-536870206', -1, 100000)
+virtual bool CoreAnalyticsUserClient::initWithTask(task_t, void *, UInt32, OSDictionary *)::165:success
+Got new blocked hash data: 1 hashesSetting 1 new blocked hashesGot new blocked team data: 1 teamsSetting 1 new blocked teamsGot new active rule version: 13880906986333576701virtual bool CoreAnalyticsUserClient::initWithTask(task_t, void *, UInt32, OSDictionary *)::165:success
+virtual bool CoreAnalyticsUserClient::start(IOService *)::116:success
+IOReturn CoreAnalyticsHub::setClientGated(CoreAnalyticsUserClient *)::287:adding userClient
+IOReturn CoreAnalyticsHub::setClientGated(CoreAnalyticsUserClient *)::287:adding userClient
+IOReturn CoreAnalyticsHub::__newUserClientGated(task_t, void *, UInt32, OSDictionary *, IOUserClient **)::257:Successfully opened
+IOReturn CoreAnalyticsHub::__newUserClientGated(task_t, void *, UInt32, OSDictionary *, IOUserClient **)::257:Successfully opened
+virtual IOReturn CoreAnalyticsUserClient::clientMemoryForType(UInt32, IOOptionBits *, IOMemoryDescriptor **)::269: got memory descriptor with 16432
+virtual IOReturn CoreAnalyticsUserClient::clientMemoryForType(UInt32, IOOptionBits *, IOMemoryDescriptor **)::269: got memory descriptor with 16432
+Waking up reference: 1Thread waiting on reference 1 woke upevaluation result: 1, allowed, cache,  1720680594Notice - new kext com.apple.driver.KextExcludeList, v15.6.1 matches prelinked kext but can't determine if executables are the same (no UUIDs).
+Matching service count = 11
+Matching service count = 17
+Matching service count = 27
+IOHIDPointingEventDevice:0x1000002c4 open by IOHIDEventDriver 0x10000036c (0x0)
+
+Invalid digitizer transducer
+HID: Legacy shim 2
+deferred rematching count 0
+apfs_load_inode_internal:4007: *** reset ino 24114 size back to 477952 (from 482072)
+apfs_load_inode_internal:4007: *** reset ino 24115 size back to 3 (from 32768)
+apfs_load_inode_internal:4007: *** reset ino 24136 size back to 379072 (from 383192)
+apfs_load_inode_internal:4007: *** reset ino 24138 size back to 3 (from 32768)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Sandbox: coreduetd(88) deny(1) mach-lookup com.apple.tccdSandbox: coreduetd(88) deny(1) mach-lookup com.apple.tccd.systemSandbox: coreduetd(88) deny(1) mach-lookup com.apple.tccdSandbox: coreduetd(88) deny(1) mach-lookup com.apple.tccd.systemsuccessfully truncated homedirs to 26 bytessuccessfully truncated homedir_ancestors to 16 bytesSandbox: coreduetd(88) deny(1) mach-lookup com.apple.tccdSandbox: coreduetd(88) deny(1) mach-lookup com.apple.tccd.systemLilu   patcher: @ (DBG) processing already loaded kexts by iterating over all kmods
+apfs_load_inode_internal:4007: *** reset ino 24181 size back to 1734552 (from 1751032)
+apfs_load_inode_internal:4007: *** reset ino 24182 size back to 3 (from 32768)
+Lilu   patcher: @ (DBG) caught the right kext com.apple.driver.AppleACPIEC at 0xFFFFFF7F8D198000, invoking handler
+apfs_keybag_init:1583: failed to initialize volume keybag, err = 2
+Sandbox: nsurlsessiond(198) deny(1) file-write-create /private/var/db/nsurlsessiond/Libraryapfs_keybag_init:1583: failed to initialize volume keybag, err = 2
+apfs_keybag_init:1583: failed to initialize volume keybag, err = 2
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f8d198000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f8d198000 of memory 40960 size
+apfs_load_inode_internal:4007: *** reset ino 24327 size back to 3 (from 32768)
+Lilu      mach: @ (DBG) found symbol __ZN11AppleACPIEC14ecSpaceHandlerEjmjPmPvS1_ at 0xffffff7f8d199224 (non-aslr 0x1224), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F8D199224 to 0xFFFFFF7F913607F0 diff 0x00000000041C75C7 argument 41C75C7
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F2521D to 0xFFFFFF7F8D19922A diff 0xFFFFFFFFFC274008 argument FC274008
+Lilu   patcher: @ (DBG) wrapped __ZN11AppleACPIEC14ecSpaceHandlerEjmjPmPvS1_
+Lilu   patcher: @ (DBG) caught the right kext com.apple.driver.AppleSMC at 0xFFFFFF7F8BB79000, invoking handler
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f8bb79000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f8bb79000 of memory 126976 size
+apfs_load_inode_internal:4007: *** reset ino 2061661 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061644 size back to 0 (from 324)
+apfs_load_inode_internal:4007: *** reset ino 2061670 size back to 0 (from 59)
+Lilu      mach: @ (DBG) found symbol __ZN8AppleSMC20callPlatformFunctionEPK8OSSymbolbPvS3_S3_S3_ at 0xffffff7f8bb84c70 (non-aslr 0xbc70), type f, sect 1, desc 0
+apfs_load_inode_internal:4007: *** reset ino 2061660 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061526 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061669 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061656 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061663 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061664 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061665 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061666 size back to 0 (from 97)
+apfs_load_inode_internal:4007: *** reset ino 2061668 size back to 0 (from 59)
+apfs_load_inode_internal:4007: *** reset ino 2061662 size back to 0 (from 59)
+tx_flush:1028: xid 286331 tx stats: # 20 finish 21 enter 122 wait 0 0us close 0us flush 6318us
+apfs_load_inode_internal:4007: *** reset ino 2061667 size back to 0 (from 59)
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F8BB84C70 to 0xFFFFFF7F91041910 diff 0x00000000054BCC9B argument 54BCC9B
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25231 to 0xFFFFFF7F8BB84C76 diff 0xFFFFFFFFFAC5FA40 argument FAC5FA40
+Lilu   patcher: @ (DBG) wrapped __ZN8AppleSMC20callPlatformFunctionEPK8OSSymbolbPvS3_S3_S3_
+Sandbox: mobileassetd(185) deny(1) file-write-create /private/var/MobileSoftwareUpdat
+SMCProcessorAMD: got vsmc notification
+SMCProcessorAMD: submitted plugin
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91389000 and its name is com.apple.filesystems.autofs (start func is 0xFFFFFF7F9138F933)
+watchdog configured to monitor userspace, SoC watchdog enabled, panic SoC watchdog enabled
+PMRD: power event 7 args 0x7b95553a7501a3d5 0x0
+PMRD: tellClientsWithResponse( kIOMessageSystemCapabilityChange, 2 )
+Previous shutdown cause: 5
+PMRD: tellClientsWithResponse( kIOMessageSystemCapabilityChange, 3 )
+PMRD: destroyed capability client set 0x7b95553a75c660e5
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+RTC: getGMTTimeOfDay 1721597977
+schedule_before_userret(745): 4/4 tasks scheduledhook_thread_userret calleduserret(745): invoking callback; 1/4 remainin
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+PMRD: power event 1 args 0 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AppleUserHIDEventDriver:0x1000002ca start (state:0x0)
+
+AppleUserHIDEventDriver:0x1000002c8 start (state:0x0)
+
+
+
+DK: IOUserServer(com.apple.driverkit.AppleUserHIDEventDriver-0x1000002ca)::terminate(AppleUserHIDEventDriver-0x1000002ca) server exit before start()
+AppleUserHIDEventDriver:0x1000002ca IOUserHIDEventService::Start:0xfffffecc
+
+
+DK: AppleUserHIDEventDriver-0x1000002ca::start(IOHIDInterface-0x1000002c6) fail
+AppleUserHIDEventDriver:0x1000002c8 IOUserHIDEventService::Start:0xfffffecc
+
+
+DK: AppleUserHIDEventDriver-0x1000002c8::start(IOHIDInterface-0x1000002c3) fail
+IOHIDKeyboardEventDevice:0x1000002c0 open by IOHIDEventDriver 0x1000002c9 (0x0)
+
+Invalid digitizer transducer
+HID: Legacy shim 2
+DK: IOUserServer(com.apple.driverkit.AppleUserHIDEventDriver-0x1000002c8)::terminate(AppleUserHIDEventDriver-0x1000002c8) server exit before start()
+IOHIDKeyboardEventDevice:0x1000002c1 open by IOHIDEventDriver 0x1000002cb (0x0)
+
+Invalid digitizer transducer
+HID: Legacy shim 2
+Notice - new kext com.apple.driver.usb.AppleUSBHostPlatformProperties, v1.2 matches prelinked kext but can't determine if executables are the same (no UUIDs).
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91394000 and its name is com.apple.driver.IOPlatformPluginFamily (start func is 0xFFFFFF7F913978D6)
+tx_flush:1028: xid 286351 tx stats: # 40 finish 41 enter 64 wait 0 0us close 0us flush 6205us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9139C000 and its name is com.apple.driver.X86PlatformPlugin (start func is 0xFFFFFF7F913A8E1A)
+considerRebuildOfPrelinkedKernel com.apple.kext.triggers triggered rebuild
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913B4000 and its name is com.apple.driver.AppleFIVRDriver (start func is 0xFFFFFF7F913B5E5A)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913B8000 and its name is com.apple.iokit.IOSlowAdaptiveClockingFamily (start func is 0xFFFFFF7F913B9F5E)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913BD000 and its name is com.apple.driver.AppleIntelSlowAdaptiveClocking (start func is 0xFFFFFF7F913BDF06)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913C0000 and its name is com.apple.driver.AppleSMBusController (start func is 0xFFFFFF7F913C47A0)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913CE000 and its name is com.apple.driver.AppleMCCSControl (start func is 0xFFFFFF7F913D791A)
+tx_flush:1028: xid 286371 tx stats: # 60 finish 61 enter 43 wait 0 0us close 0us flush 6189us
+Lilu   patcher: @ (DBG) caught the right kext com.apple.driver.AppleMCCSControl at 0xFFFFFF7F913CE000, invoking handler
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f913ce000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f913ce000 of memory 90112 size
+Lilu      mach: @ (DBG) found symbol __ZN25AppleMCCSControlGibraltar5probeEP9IOServicePi at 0xffffff7f913d0758 (non-aslr 0x2758), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN21AppleMCCSControlCello5probeEP9IOServicePi at 0xffffff7f913d6144 (non-aslr 0x8144), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F913D0758 to 0xFFFFFF7F910FDE90 diff 0xFFFFFFFFFFD2D733 argument FFD2D733
+Lilu   patcher: @ (DBG) routed __ZN25AppleMCCSControlGibraltar5probeEP9IOServicePi
+apfs_load_inode_internal:4007: *** reset ino 24195 size back to 3 (from 32768)
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F913D6144 to 0xFFFFFF7F910FDE90 diff 0xFFFFFFFFFFD27D47 argument FFD27D47
+Lilu   patcher: @ (DBG) routed __ZN21AppleMCCSControlCello5probeEP9IOServicePi
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913E4000 and its name is com.apple.driver.AppleSMBusPCI (start func is 0xFFFFFF7F913E4E18)
+tx_flush:1028: xid 286391 tx stats: # 80 finish 81 enter 34 wait 1 22807us close 0us flush 6187us
+apfs_load_inode_internal:4007: *** reset ino 24199 size back to 3 (from 32768)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913E7000 and its name is com.apple.iokit.IOHDAFamily (start func is 0xFFFFFF7F913EABAC)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F913F3000 and its name is com.apple.driver.AppleHDAController (start func is 0xFFFFFF7F9140479C)
+Sandbox: systemstats(68) deny(1) mach-lookup com.apple.tccd.syste
+tx_flush:1028: xid 286411 tx stats: # 100 finish 101 enter 28 wait 2 21700us close 0us flush 6130us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9140F000 and its name is com.apple.iokit.IONDRVSupport (start func is 0xFFFFFF7F91416806)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9141D000 and its name is com.apple.driver.AppleGFXHDA (start func is 0xFFFFFF7F91476A8B)
+Lilu   patcher: @ (DBG) caught the right kext com.apple.driver.AppleGFXHDA at 0xFFFFFF7F9141D000, invoking handler
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f9141d000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f9141d000 of memory 618496 size
+apfs_load_inode_internal:4007: *** reset ino 1416502 size back to 2051 (from 2093)
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f9141d000 of memory 618496 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+NootedRed      NRed: @ (DBG) Processed AppleGFXHDA
+tx_flush:1028: xid 286431 tx stats: # 120 finish 121 enter 25 wait 2 21700us close 32us flush 6106us
+[0x30001]AppleGFXHDAControler[0]::probe
+[0x30001]AppleGFXHDAController[0]::start
++ IOAudioDevice[<ptr>]::init(0)
+- IOAudioDevice[<ptr>]::init(0) returns 1
+Sound assertion in AppleGFXHDADriver at line 4838
+[0x30001]AppleGFXHDAController[0]::setPowerState from 0 to 2
+Sound assertion in AppleGFXHDAController at line 5084
+[0x30001]AppleGFXHDAControler[0]::handleOpen
+Sound assertion in AppleGFXHDAFunctionGroupFactory at line 93
+Sound assertion in AppleGFXHDADriver at line 4246
+[0x30001]AppleGFXHDAControler[0]::handleIsOpen
+[0x30001]AppleGFXHDAControler[0]::handleClose
++ IOAudioDevice[<ptr>]::stop(<ptr>)
++ IOAudioDevice[<ptr>]::removeAllTimerEvents()
+- IOAudioDevice[<ptr>]::removeAllTimerEvents()
++ IOAudioDevice[<ptr>]::deactivateAllAudioEngines()
+- IOAudioDevice[<ptr>]::deactivateAllAudioEngines()
+- IOAudioDevice[<ptr>]::stop(<ptr>)
+[0x30001]AppleGFXHDADriver[0]::stop
+Notice - new kext com.apple.driver.usb.AppleUSBHostPlatformProperties, v1.2 matches prelinked kext but can't determine if executables are the same (no UUIDs).
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F914B4000 and its name is com.apple.iokit.IOBluetoothHostControllerTransport (start func is 0xFFFFFF7F914B8136)
+Lilu   patcher: @ (DBG) invoked at kext loading
+unexpected session: 100000 uid: -1 requested by: 107
+AppleKeyStore: operation failed (pid: 107 sel: 17 ret: e00002c2 '-536870206', -1, 100000)
+unexpected session: 100000 uid: -1 requested by: 107
+AppleKeyStore: operation failed (pid: 107 sel: 7 ret: e00002c2 '-536870206', -1, 100000)
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F914BE000 and its name is com.apple.iokit.IOBluetoothHostControllerUSBTransport (start func is 0xFFFFFF7F914CF4A0)
+**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- 0xb800 ****
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F914DF000 and its name is com.apple.private.KextAudit (start func is 0xFFFFFF7F914DFEFE)
+apfs_load_inode_internal:4007: *** reset ino 24342 size back to 3 (from 32768)
+Matched against SMC (started)
+Generation from SMC report as 2
+AssertMacros: (smcret == kSMCSuccess), SMCRTC: Cannot read PMU offset from SMC
+ file: /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/AppleSMCRTC/AppleSMCRTC-16/AppleSMCRTC.cpp, line: 539, value: 0
+SMCRTC: stop 
+SMCRTC: stop 
+SMCRTC: start 
+SMCRTC: start 
+AssertMacros: (smcret == kSMCSuccess), SMCRTC: Cannot read PMU offset from SMC
+ file: /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/AppleSMCRTC/AppleSMCRTC-16/AppleSMCRTC.cpp, line: 539, value: 0
+SMCRTC: stop 
+SMCRTC: stop 
+Lilu   patcher: @ (DBG) invoked at kext loading
+tx_flush:1028: xid 286451 tx stats: # 140 finish 142 enter 22 wait 2 21700us close 28us flush 6135us
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F914E3000 and its name is com.apple.driver.IOPlatformPluginLegacy (start func is 0xFFFFFF7F914EB48D)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F914F5000 and its name is com.apple.driver.ACPI_SMC_PlatformPlugin (start func is 0xFFFFFF7F91500774)
+Generation from SMC report as 2
+Generation from SMC report as 2
+nx_volume_group_get_volume_indices:6236: Found 2 volumes in group 563D0263-63CD-446A-AD27-95D9FAD7BF71
+X86PlatformPlugin::getCPUCStates - CP00 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP00 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+X86PlatformPlugin::getCPUPStates - CP00 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP00 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+PMRD: power event 7 args 0x7b95553a7383da55 0x0
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get max non-turbo PState. Set max non-turbo PState to default value 1
+X86PlatformPlugin::publishACPIStates - Failed to get max non-turbo PState. Set max non-turbo PState to default value 1
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+X86PlatformPlugin::getCPUCStates - CP01 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP01 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP01 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP01 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP02 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP02 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP02 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP02 APSS and _PSS evaluations failed!
+PMRD: tellClientsWithResponse( kIOMessageSystemCapabilityChange, 2 )
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP03 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP03 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP03 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP03 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP04 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP04 ACST and _CST evaluations failed!
+PMRD: tellClientsWithResponse( kIOMessageSystemCapabilityChange, 3 )
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP04 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP04 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+PMRD: destroyed capability client set 0x7b95553a75be7175
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9150A000 and its name is com.apple.AppleGPUWrangler (start func is 0xFFFFFF7F91510A42)
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP05 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP05 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP05 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP05 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP06 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP06 ACST and _CST evaluations failed!
+Sandbox: 1 duplicate report for systemstats deny(1) mach-lookup com.apple.tccd.systemSandbox: bluetoothd(113) deny(1) mach-lookup com.apple.server.bluetoothX86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP06 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP06 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP07 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP07 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP07 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP07 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP08 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP08 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP08 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP08 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP09 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP09 ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP09 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP09 APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP0A ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP0A ACST and _CST evaluations failed!
+Lilu   patcher: @ (DBG) invoked at kext loading
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP0A APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP0A APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::getCPUCStates - CP0B ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - CP0B ACST and _CST evaluations failed!
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUCStates - _CST did not return a package
+X86PlatformPlugin::getCPUPStates - CP0B APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - CP0B APSS and _PSS evaluations failed!
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::getCPUPStates - acpiPSArrayObj is not an valid OSArray
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+X86PlatformPlugin::publishACPIStates - Failed to get CPU P States!
+IOPPF - IODeviceTree:/efi/platform/StartupPowerEvents: 0x0
+IOPPF - IODeviceTree:/efi/platform/StartupPowerEvents: 0x0
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91515000 and its name is com.apple.driver.AppleBacklightExpert (start func is 0xFFFFFF7F91516E44)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9151A000 and its name is com.apple.driver.AppleBacklight (start func is 0xFFFFFF7F9151CD8D)
+Lilu   patcher: @ (DBG) caught the right kext com.apple.driver.AppleBacklight at 0xFFFFFF7F9151A000, invoking handler
+tx_flush:1028: xid 286471 tx stats: # 160 finish 162 enter 20 wait 2 21700us close 24us flush 6138us
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f9151a000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f9151a000 of memory 24576 size
+Lilu      mach: @ (DBG) found symbol __ZN15AppleIntelPanel10setDisplayEP9IODisplay at 0xffffff7f9151b12e (non-aslr 0x112e), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F9151B12E to 0xFFFFFF7F910FDBD0 diff 0xFFFFFFFFFFBE2A9D argument FFBE2A9D
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25245 to 0xFFFFFF7F9151B134 diff 0x00000000005F5EEA argument 5F5EEA
+Lilu   patcher: @ (DBG) wrapped __ZN15AppleIntelPanel10setDisplayEP9IODisplay
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f9151a000 of memory 24576 size
+HDAU: match category IODefaultMatchCategory exists
+PMRD: power event 1 args 0 0x0
+PMRD: power event 1 args 0 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: power event 1 args 0 0x0
+PMRD: power event 1 args 0 0x0
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+Lilu   patcher: @ (DBG) invoked at kext loading
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91520000 and its name is com.apple.Dont_Steal_Mac_OS_X (start func is 0xFFFFFF7F91521A34)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91526000 and its name is com.apple.driver.AGDCBacklightControl (start func is 0xFFFFFF7F91528C8A)
+AGDCBacklightControl: Didn't find DPMicro.
+Notice - new kext com.apple.driver.usb.AppleUSBHostPlatformProperties, v1.2 matches prelinked kext but can't determine if executables are the same (no UUIDs).
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9152C000 and its name is com.apple.driver.X86PlatformShim (start func is 0xFFFFFF7F9152FE1A)
+tx_flush:1028: xid 286491 tx stats: # 180 finish 184 enter 18 wait 2 21700us close 104us flush 6124us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91535000 and its name is com.apple.driver.AGPM (start func is 0xFFFFFF7F9154BCEA)
+[AGPM][INFO ][CONTROLLER  ][start                   ] Entered AGPMController::start() 
+[AGPM][INFO ][CONTROLLER  ][start                   ] init fSlotControl, fSlotControl = 0
+[AGPM][INFO ][CONTROLLER  ][start                   ] Exited AGPMController::start()
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9155C000 and its name is com.apple.driver.ApplePlatformEnabler (start func is 0xFFFFFF7F9155D804)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91561000 and its name is com.apple.driver.pmtelemetry (start func is 0xFFFFFF7F91566E5A)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91582000 and its name is com.apple.iokit.IOBluetoothSerialManager (start func is 0xFFFFFF7F915894A0)
+tx_flush:1028: xid 286511 tx stats: # 200 finish 204 enter 16 wait 3 14506us close 112us flush 6098us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91591000 and its name is com.apple.iokit.IOUserEthernet (start func is 0xFFFFFF7F91593C6C)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9159A000 and its name is com.apple.driver.AppleHV (start func is 0xFFFFFF7F915A138A)
+Couldn't alloc class "RadeonSensor"
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F915A8000 and its name is com.apple.AGDCPluginDisplayMetrics (start func is 0xFFFFFF7F915A9EA0)
+DSMOS has arrived
+Unsupported CPU
+Unsupported CPU
+PMRD: power event 2 args 0x50000 0x0
+PMRD: clamshell closed 0, disabled 1, desktopMode 0, ac 1 sleepDisabled 0
+Unsupported PCH
+[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0xb800 
+[IOBluetoothFamily][start] -- completed
+[IOBluetoothPacketLogger][start] -- successful -- calling registerService() 
+[IOBluetoothHostController][start] -- completed
+Couldn't alloc class "RadeonSensor"
+**** [IOBluetoothHostControllerUSBTransport][DeviceRequestCompleteHandler] -- Received 0xE0005000 (0xe0005000 -- Unknown) -- 0xb800 ****
+**** [IOBluetoothHostControllerUSBTransport][DoDeviceReset] -- Re-Enumeration is currently not permitted -- this = 0xb800 ****
+PMRD: clamshell closed 0, disabled 1, desktopMode 0, ac 1 sleepDisabled 0
+PMRD: power event 1 args 0 0x0
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+PMRD: wrangler setIgnoreIdleTimer(1) due to pre-existing assertion
+PMRD: delayChildNotification for 0x1000003c6
+PMRD: IODisplayWrangler tag flags 100
+GTrace synchronization point 1
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: setAggressiveness(0) kPMMinutesToDim = 54
+PMRD: prevent idle sleep list: IODisplayWrangler+ (1)
+PMRD: changePowerStateTo(4)
+PMRD: wrangler kIOMessageDeviceHasPoweredOn ps 4
+Lilu   patcher: @ (DBG) invoked at kext loading
+PMRD: evaluatePolicy( 1, 0x0 )
+PMRD: wrangler DevicePowerState (ps 4, 0->4)
+PMRD: evaluatePolicy( 10, 0x0 )
+PMRD: idle sleep timer disabled
+PMRD: changePowerStateToPriv(4)
+PMRD: evaluatePolicy( 1, 0x0 )
+PMRD: power event 5 args 0x7b95553a71cfaf45 0x0
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+PMRD: power event 2 args 0x50000 0x0
+PMRD: clamshell closed 0, disabled 1, desktopMode 0, ac 1 sleepDisabled 0
+PMRD: clamshell closed 0, disabled 1, desktopMode 0, ac 1 sleepDisabled 0
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F915AC000 and its name is com.apple.filesystems.ntfs (start func is 0xFFFFFF7F915E1EB1)
+NTFS driver 3.14.3 [Flags: R/W].
+Sandbox: nsurlsessiond(198) deny(1) file-write-create /private/var/db/nsurlsessiond/LibraryNTFS volume name Windows, version 3.1.
+NTFS-fs warning (device /dev/disk0s2, pid 169): ntfs_system_inodes_get(): Windows is hibernated.  Will not be able to remount read-write.  Run chkdsk.
+Lilu   patcher: @ (DBG) invoked at kext loading
+tx_flush:1028: xid 286531 tx stats: # 220 finish 224 enter 16 wait 3 14506us close 124us flush 6068us
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91614000 and its name is com.apple.driver.AppleGraphicsControl (start func is 0xFFFFFF7F91614FB6)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91617000 and its name is com.apple.driver.AppleGraphicsDevicePolicy (start func is 0xFFFFFF7F9161F9D3)
+Lilu   patcher: @ (DBG) caught the right kext com.apple.driver.AppleGraphicsDevicePolicy at 0xFFFFFF7F91617000, invoking handler
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f91617000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91617000 of memory 86016 size
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91617000 of memory 86016 size
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91617000 of memory 86016 size
+tx_flush:1028: xid 286551 tx stats: # 240 finish 244 enter 15 wait 3 14506us close 114us flush 6115us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9162C000 and its name is com.apple.driver.AppleSmartBatteryManager (start func is 0xFFFFFF7F91634182)
+Provider is IOSMBusController
+SMCGetKeyInfo cmd 0x9(key     ) size 0x2
+SMCGetKeyInfo cmd 0xa(key     ) size 0x2
+SMCGetKeyInfo cmd 0x16(key     ) size 0x2
+SMCGetKeyInfo cmd 0x53(key     ) size 0x2
+SMCGetKeyInfo cmd 0x17(key     ) size 0x2
+SMCGetKeyInfo cmd 0x13(key     ) size 0x2
+SMCGetKeyInfo cmd 0xf(key     ) size 0x2
+SMCGetKeyInfo cmd 0x10(key     ) size 0x2
+Clearing out battery data
+Starting poll type 1
+Restarting poll type 1
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+SMC Key      is not supported.
+AppleSmartBatteryManager started
+PMRD: power event 2 args 0x50000 0x0
+PMRD: clamshell closed 0, disabled 1, desktopMode 0, ac 1 sleepDisabled 0
+PMRD: clamshell closed 0, disabled 1, desktopMode 0, ac 1 sleepDisabled 0
+Lilu   patcher: @ (DBG) invoked at kext loading
+SmartBattery: finished polling type 1
+Starting poll type 1
+Restarting poll type 1
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9163F000 and its name is com.apple.kext.AMDRadeonServiceManager (start func is 0xFFFFFF7F91641C92)
+SmartBattery: finished polling type 1
+Couldn't alloc class "RadeonSensor"
+Lilu   patcher: @ (DBG) invoked at kext loading
+apfs_load_inode_internal:4007: *** reset ino 29610 size back to 3 (from 32768)
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9164B000 and its name is com.apple.kext.AMDRadeonX5000HWServices (start func is 0xFFFFFF7F9164DD5E)
+tx_flush:1028: xid 286571 tx stats: # 260 finish 264 enter 15 wait 4 10905us close 127us flush 6118us
+ioqueue_depth = 256,   ioscale = 8
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91657000 and its name is com.apple.kext.AMDSupport (start func is 0xFFFFFF7F9170D53A)
+apfs_load_inode_internal:4007: *** reset ino 26378 size back to 3 (from 32768)
+tx_flush:1028: xid 286591 tx stats: # 280 finish 284 enter 15 wait 4 10905us close 118us flush 6165us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F9185C000 and its name is com.apple.iokit.IOAcceleratorFamily2 (start func is 0xFFFFFF7F918B0302)
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91920000 and its name is com.apple.kext.AMDRadeonX6000 (start func is 0xFFFFFF7F919A25AC)
+Lilu   patcher: @ (DBG) caught the right kext com.apple.kext.AMDRadeonX6000 at 0xFFFFFF7F91920000, invoking handler
+[[0x3000]  OpCode 0x1005 (Read Buffer Size) from: kernel_task (0)  Synchronous  status: 0x00 (kIOReturnSuccess) state: 2 (BUSY) timeout: 5000 originalTimeout: 5000] Bluetooth warning: An HCI Req timeout occurred.
+**** [IOBluetoothHostControllerUSBTransport][DeviceRequestCompleteHandler] -- Received 0xE0005000 (0xe0005000 -- Unknown) -- 0xb800 ****
+**** [IOBluetoothHostControllerUSBTransport][DoDeviceReset] -- Re-Enumeration is currently not permitted -- this = 0xb800 ****
+tx_flush:1028: xid 286611 tx stats: # 300 finish 305 enter 15 wait 5 11766us close 126us flush 6211us
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f91920000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+Lilu      mach: @ (DBG) found symbol __ZN31AMDRadeonX6000_AMDGFX10Hardware20allocateAMDHWDisplayEv at 0xffffff7f91990dbc (non-aslr 0x70dbc), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN35AMDRadeonX6000_AMDAccelVideoContext10gMetaClassE at 0xffffff7f91b3c740 (non-aslr 0x21c740), type f, sect b, desc 0
+Sandbox: 8 duplicate reports for nsurlsessiond deny(1) file-write-create /private/var/db/nsurlsessiond/LibrarySandbox: bluetoothd(113) deny(1) mach-lookup com.apple.server.bluetoot
+Lilu      mach: @ (DBG) found symbol __ZN37AMDRadeonX6000_AMDAccelDisplayMachine10gMetaClassE at 0xffffff7f91b3c560 (non-aslr 0x21c560), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN34AMDRadeonX6000_AMDAccelDisplayPipe10gMetaClassE at 0xffffff7f91b3c588 (non-aslr 0x21c588), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX6000_AMDAccelChannel10gMetaClassE at 0xffffff7f91b3c510 (non-aslr 0x21c510), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN28AMDRadeonX6000_IAMDHWChannel10gMetaClassE at 0xffffff7f91b3cec0 (non-aslr 0x21cec0), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN33AMDRadeonX6000_AMDHWAlignManager224getPreferredSwizzleMode2EP33_ADDR2_COMPUTE_SURFACE_INFO_INPUT at 0xffffff7f919818d6 (non-aslr 0x618d6), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN37AMDRadeonX6000_AMDGraphicsAccelerator5startEP9IOService at 0xffffff7f919216e8 (non-aslr 0x16e8), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F919216E8 to 0xFFFFFF7F910F9CC0 diff 0xFFFFFFFFFF7D85D3 argument FF7D85D3
+Lilu   patcher: @ (DBG) routed __ZN37AMDRadeonX6000_AMDGraphicsAccelerator5startEP9IOService
+Lilu      mach: @ (DBG) found symbol __ZN27AMDRadeonX6000_AMDHWDisplay14fillUBMSurfaceEjP17_FRAMEBUFFER_INFOP13_UBM_SURFINFO at 0xffffff7f9196d27e (non-aslr 0x4d27e), type f, sect 1, desc 0
+tx_flush:1028: xid 286631 tx stats: # 320 finish 326 enter 14 wait 6 11018us close 118us flush 6286us
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F9196D27E to 0xFFFFFF7F910F9D00 diff 0xFFFFFFFFFF78CA7D argument FF78CA7D
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25259 to 0xFFFFFF7F9196D284 diff 0x0000000000A48026 argument A48026
+Lilu   patcher: @ (DBG) wrapped __ZN27AMDRadeonX6000_AMDHWDisplay14fillUBMSurfaceEjP17_FRAMEBUFFER_INFOP13_UBM_SURFINFO
+Lilu      mach: @ (DBG) found symbol __ZN27AMDRadeonX6000_AMDHWDisplay16configureDisplayEjjP17_FRAMEBUFFER_INFOP16IOAccelResource2 at 0xffffff7f9196cfac (non-aslr 0x4cfac), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F9196CFAC to 0xFFFFFF7F910F9E00 diff 0xFFFFFFFFFF78CE4F argument FF78CE4F
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F2526D to 0xFFFFFF7F9196CFB2 diff 0x0000000000A47D40 argument A47D40
+Lilu   patcher: @ (DBG) wrapped __ZN27AMDRadeonX6000_AMDHWDisplay16configureDisplayEjjP17_FRAMEBUFFER_INFOP16IOAccelResource2
+Lilu      mach: @ (DBG) found symbol __ZN27AMDRadeonX6000_AMDHWDisplay14getDisplayInfoEjbbPvP17_FRAMEBUFFER_INFO at 0xffffff7f9196c452 (non-aslr 0x4c452), type f, sect 1, desc 0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F9196C452 to 0xFFFFFF7F910F9F00 diff 0xFFFFFFFFFF78DAA9 argument FF78DAA9
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25281 to 0xFFFFFF7F9196C458 diff 0x0000000000A471D2 argument A471D2
+Lilu   patcher: @ (DBG) wrapped __ZN27AMDRadeonX6000_AMDHWDisplay14getDisplayInfoEjbbPvP17_FRAMEBUFFER_INFO
+Lilu      mach: @ (DBG) found symbol __ZN27AMDRadeonX6000_AMDHWDisplay17allocateScanoutFBEjP16IOAccelResource2S1_Py at 0xffffff7f9196d74a (non-aslr 0x4d74a), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F9196D74A to 0xFFFFFF7F910FAA50 diff 0xFFFFFFFFFF78D301 argument FF78D301
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25295 to 0xFFFFFF7F9196D750 diff 0x0000000000A484B6 argument A484B6
+Lilu   patcher: @ (DBG) wrapped __ZN27AMDRadeonX6000_AMDHWDisplay17allocateScanoutFBEjP16IOAccelResource2S1_Py
+tx_flush:1028: xid 286651 tx stats: # 340 finish 346 enter 13 wait 6 11018us close 111us flush 6322us
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[2]
+NootedRed  Patcher+: @ (DBG) Applied patches[3]
+tx_flush:1028: xid 286671 tx stats: # 360 finish 366 enter 12 wait 8 10094us close 105us flush 6311us
+NootedRed  Patcher+: @ (DBG) Applied patches[4]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[5]
+[[0x3000]  OpCode 0x1005 (Read Buffer Size) from: kernel_task (0)  Synchronous  status: 0x00 (kIOReturnSuccess) state: 2 (BUSY) timeout: 5000 originalTimeout: 5000] Bluetooth warning: An HCI Req timeout occurred.
+**** [IOBluetoothHostControllerUSBTransport][DeviceRequestCompleteHandler] -- Received 0xE0005000 (0xe0005000 -- Unknown) -- 0xb800 ****
+**** [IOBluetoothHostControllerUSBTransport][DoDeviceReset] -- Re-Enumeration is currently not permitted -- this = 0xb800 ****
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[6]
+NootedRed  Patcher+: @ (DBG) Applied patches[7]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[8]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[9]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[10]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[11]
+tx_flush:1028: xid 286691 tx stats: # 380 finish 388 enter 12 wait 8 10094us close 99us flush 6285us
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[12]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[13]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[14]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[15]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[16]
+NootedRed  Patcher+: @ (DBG) Applied patches[17]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[18]
+tx_flush:1028: xid 286711 tx stats: # 400 finish 407 enter 13 wait 8 10094us close 94us flush 6278us
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[19]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[20]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[21]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[22]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[23]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[24]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+tx_flush:1028: xid 286731 tx stats: # 420 finish 427 enter 12 wait 8 10094us close 90us flush 6260us
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[2]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[3]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[4]
+[[0x3000]  OpCode 0x2002 (LE Read Buffer Size) from: kernel_task (0)  Synchronous  status: 0x00 (kIOReturnSuccess) state: 2 (BUSY) timeout: 5000 originalTimeout: 5000] Bluetooth warning: An HCI Req timeout occurred.
+**** [IOBluetoothHostControllerUSBTransport][DeviceRequestCompleteHandler] -- Received 0xE0005000 (0xe0005000 -- Unknown) -- 0xb800 ****
+**** [IOBluetoothHostControllerUSBTransport][DoDeviceReset] -- Re-Enumeration is currently not permitted -- this = 0xb800 ****
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[5]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91920000 of memory 2920448 size
+NootedRed  Patcher+: @ (DBG) Applied patches[6]
+NootedRed      NRed: @ (DBG) Processed AMDRadeonX6000
+tx_flush:1028: xid 286751 tx stats: # 440 finish 448 enter 12 wait 8 10094us close 86us flush 6249us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91BE9000 and its name is com.apple.kext.AMDRadeonX5000 (start func is 0xFFFFFF7F91C6DC8C)
+Lilu   patcher: @ (DBG) caught the right kext com.apple.kext.AMDRadeonX5000 at 0xFFFFFF7F91BE9000, invoking handler
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f91be9000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91be9000 of memory 2809856 size
+Lilu      mach: @ (DBG) found symbol __ZZN37AMDRadeonX5000_AMDGraphicsAccelerator22getAdditionalQueueListEPPK18_AMDQueueSpecifierE27additionalQueueList_Default at 0xffffff7f91dc6810 (non-aslr 0x1dd810), type e, sect 9, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN31AMDRadeonX5000_AMDGFX9PM4EngineC1Ev at 0xffffff7f91c55c7c (non-aslr 0x6cc7c), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN32AMDRadeonX5000_AMDGFX9SDMAEngineC1Ev at 0xffffff7f91c59e96 (non-aslr 0x70e96), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN35AMDRadeonX5000_AMDAccelVideoContext10gMetaClassE at 0xffffff7f91df6788 (non-aslr 0x20d788), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN37AMDRadeonX5000_AMDAccelDisplayMachine10gMetaClassE at 0xffffff7f91df65a8 (non-aslr 0x20d5a8), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN34AMDRadeonX5000_AMDAccelDisplayPipe10gMetaClassE at 0xffffff7f91df65d0 (non-aslr 0x20d5d0), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX5000_AMDAccelChannel10gMetaClassE at 0xffffff7f91df6558 (non-aslr 0x20d558), type f, sect b, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN28AMDRadeonX5000_IAMDHWChannel10gMetaClassE at 0xffffff7f91df6f08 (non-aslr 0x20df08), type f, sect b, desc 0
+tx_flush:1028: xid 286771 tx stats: # 460 finish 469 enter 11 wait 8 10094us close 82us flush 6233us
+Lilu      mach: @ (DBG) found symbol __ZN26AMDRadeonX5000_AMDHardware14startHWEnginesEv at 0xffffff7f91c60f7e (non-aslr 0x77f7e), type f, sect 1, desc 0
+Lilu      mach: @ (DBG) found symbol __ZN32AMDRadeonX5000_AMDVega10Hardware17allocateHWEnginesEv at 0xffffff7f91c5c524 (non-aslr 0x73524), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C5C524 to 0xFFFFFF7F910FFE80 diff 0xFFFFFFFFFF4A3957 argument FF4A3957
+Lilu   patcher: @ (DBG) routed __ZN32AMDRadeonX5000_AMDVega10Hardware17allocateHWEnginesEv
+Lilu      mach: @ (DBG) found symbol __ZN32AMDRadeonX5000_AMDVega10Hardware32setupAndInitializeHWCapabilitiesEv at 0xffffff7f91c5c4dc (non-aslr 0x734dc), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C5C4DC to 0xFFFFFF7F910FFF90 diff 0xFFFFFFFFFF4A3AAF argument FF4A3AAF
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F252A8 to 0xFFFFFF7F91C5C4E1 diff 0x0000000000D37234 argument D37234
+Lilu   patcher: @ (DBG) wrapped __ZN32AMDRadeonX5000_AMDVega10Hardware32setupAndInitializeHWCapabilitiesEv
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX5000_AMDGFX9Hardware32setupAndInitializeHWCapabilitiesEv at 0xffffff7f91c501ba (non-aslr 0x671ba), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C501BA to 0xFFFFFF7F91100070 diff 0xFFFFFFFFFF4AFEB1 argument FF4AFEB1
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F252BC to 0xFFFFFF7F91C501C0 diff 0x0000000000D2AEFF argument D2AEFF
+Lilu   patcher: @ (DBG) wrapped __ZN30AMDRadeonX5000_AMDGFX9Hardware32setupAndInitializeHWCapabilitiesEv
+Lilu      mach: @ (DBG) found symbol __ZN26AMDRadeonX5000_AMDHardware12getHWChannelE20_eAMD_HW_ENGINE_TYPE18_eAMD_HW_RING_TYPE at 0xffffff7f91c618fc (non-aslr 0x788fc), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C618FC to 0xFFFFFF7F91100220 diff 0xFFFFFFFFFF49E91F argument FF49E91F
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F252D0 to 0xFFFFFF7F91C61902 diff 0x0000000000D3C62D argument D3C62D
+tx_flush:1028: xid 286791 tx stats: # 480 finish 489 enter 11 wait 9 9890us close 79us flush 6218us
+Lilu   patcher: @ (DBG) wrapped __ZN26AMDRadeonX5000_AMDHardware12getHWChannelE20_eAMD_HW_ENGINE_TYPE18_eAMD_HW_RING_TYPE
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX5000_AMDGFX9Hardware20initializeFamilyTypeEv at 0xffffff7f91c5047a (non-aslr 0x6747a), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C5047A to 0xFFFFFF7F911002D0 diff 0xFFFFFFFFFF4AFE51 argument FF4AFE51
+Lilu   patcher: @ (DBG) routed __ZN30AMDRadeonX5000_AMDGFX9Hardware20initializeFamilyTypeEv
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX5000_AMDGFX9Hardware20allocateAMDHWDisplayEv at 0xffffff7f91c50078 (non-aslr 0x67078), type f, sect 1, desc 0
+[[0x3000]  OpCode 0x2002 (LE Read Buffer Size) from: kernel_task (0)  Synchronous  status: 0x00 (kIOReturnSuccess) state: 2 (BUSY) timeout: 5000 originalTimeout: 5000] Bluetooth warning: An HCI Req timeout occurred.
+IOBluetoothHostController::SetupGeneralController -- failed to get the buffer size from the Bluetooth module -- re-enumerating device
+[IOBluetoothHostController][ControllerSetupComplete] Failed setup: 0x0010 (kBluetoothHCIErrorHostTimeout)
+**** [IOBluetoothHostController][InitializeHostControllerVariables] -- status != kIOReturnSuccess -- this = 0x1d00 -- mBluetoothTransport = 0xb800 ****
+REQUIRE_NO_ERR failure: 0x10 - file: /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/IOBluetoothFamily_kexts/IOBluetoothFamily-7006.4.12/Core/Family/HCI/HostControllers/IOBluetoothHostController.cpp:4105
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Error!! -- Something went wrong in the setup process. Could not communicate with Bluetooth Transport successfully -- 0x3000 -- 0xb800 ****
+
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C50078 to 0xFFFFFF7F91100350 diff 0xFFFFFFFFFF4B02D3 argument FF4B02D3
+Lilu   patcher: @ (DBG) routed __ZN30AMDRadeonX5000_AMDGFX9Hardware20allocateAMDHWDisplayEv
+Lilu      mach: @ (DBG) found symbol __ZN26AMDRadeonX5000_AMDHWMemory17adjustVRAMAddressEy at 0xffffff7f91c3e1e6 (non-aslr 0x551e6), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C3E1E6 to 0xFFFFFF7F911003C0 diff 0xFFFFFFFFFF4C21D5 argument FF4C21D5
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F252E5 to 0xFFFFFF7F91C3E1ED diff 0x0000000000D18F03 argument D18F03
+Lilu   patcher: @ (DBG) wrapped __ZN26AMDRadeonX5000_AMDHWMemory17adjustVRAMAddressEy
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX5000_AMDGFX9Hardware25allocateAMDHWAlignManagerEv at 0xffffff7f91c5002c (non-aslr 0x6702c), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C5002C to 0xFFFFFF7F91100480 diff 0xFFFFFFFFFF4B044F argument FF4B044F
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F252F8 to 0xFFFFFF7F91C50031 diff 0x0000000000D2AD34 argument D2AD34
+Lilu   patcher: @ (DBG) wrapped __ZN30AMDRadeonX5000_AMDGFX9Hardware25allocateAMDHWAlignManagerEv
+tx_flush:1028: xid 286811 tx stats: # 500 finish 511 enter 10 wait 9 9890us close 75us flush 6205us
+Lilu      mach: @ (DBG) found symbol __ZN43AMDRadeonX5000_AMDVega10GraphicsAccelerator13getDeviceTypeEP11IOPCIDevice at 0xffffff7f91c25114 (non-aslr 0x3c114), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C25114 to 0xFFFFFF7F91100620 diff 0xFFFFFFFFFF4DB507 argument FF4DB507
+Lilu   patcher: @ (DBG) routed __ZN43AMDRadeonX5000_AMDVega10GraphicsAccelerator13getDeviceTypeEP11IOPCIDevice
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX5000_AMDGFX9Hardware20writeASICHangLogInfoEPPv at 0xffffff7f91c513b6 (non-aslr 0x683b6), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C513B6 to 0xFFFFFF7F91100670 diff 0xFFFFFFFFFF4AF2B5 argument FF4AF2B5
+Lilu   patcher: @ (DBG) routed __ZN30AMDRadeonX5000_AMDGFX9Hardware20writeASICHangLogInfoEPPv
+Lilu      mach: @ (DBG) found symbol __ZN4Addr2V27Gfx9Lib20HwlConvertChipFamilyEjj at 0xffffff7f91caec3c (non-aslr 0xc5c3c), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91CAEC3C to 0xFFFFFF7F91100680 diff 0xFFFFFFFFFF451A3F argument FF451A3F
+Lilu   patcher: @ (DBG) routed __ZN4Addr2V27Gfx9Lib20HwlConvertChipFamilyEjj
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91be9000 of memory 2809856 size
+Lilu      mach: @ (DBG) found symbol __ZN26AMDRadeonX5000_AMDHWMemory4initEP30AMDRadeonX5000_IAMDHWInterface at 0xffffff7f91c3c8c6 (non-aslr 0x538c6), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C3C8C6 to 0xFFFFFF7F91100A50 diff 0xFFFFFFFFFF4C4185 argument FF4C4185
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F2530C to 0xFFFFFF7F91C3C8CC diff 0x0000000000D175BB argument D175BB
+Lilu   patcher: @ (DBG) wrapped __ZN26AMDRadeonX5000_AMDHWMemory4initEP30AMDRadeonX5000_IAMDHWInterface
+tx_flush:1028: xid 286831 tx stats: # 520 finish 532 enter 10 wait 9 9890us close 73us flush 6194us
+Lilu      mach: @ (DBG) found symbol __ZN30AMDRadeonX5000_AMDPM4HWChannel17performClearStateEv at 0xffffff7f91c434e6 (non-aslr 0x5a4e6), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91C434E6 to 0xFFFFFF7F91100B00 diff 0xFFFFFFFFFF4BD615 argument FF4BD615
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25320 to 0xFFFFFF7F91C434EC diff 0x0000000000D1E1C7 argument D1E1C7
+Lilu   patcher: @ (DBG) wrapped __ZN30AMDRadeonX5000_AMDPM4HWChannel17performClearStateEv
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91be9000 of memory 2809856 size
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91be9000 of memory 2809856 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91be9000 of memory 2809856 size
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91be9000 of memory 2809856 size
+NootedRed  Patcher+: @ (DBG) Applied patches[2]
+NootedRed     X5000: @ (DBG) Applied SDMA1 patches
+NootedRed      NRed: @ (DBG) Processed AMDRadeonX5000
+tx_flush:1028: xid 286851 tx stats: # 540 finish 553 enter 10 wait 9 9890us close 70us flush 6184us
+tx_flush:1028: xid 286871 tx stats: # 560 finish 572 enter 10 wait 9 9890us close 67us flush 6158us
+tx_flush:1028: xid 286891 tx stats: # 580 finish 594 enter 10 wait 10 8912us close 74us flush 6147us
+tx_flush:1028: xid 286911 tx stats: # 600 finish 619 enter 10 wait 10 8912us close 72us flush 6148us
+Lilu   patcher: @ (DBG) invoked at kext loading
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F91E97000 and its name is com.apple.kext.AMDRadeonX5000HWLibs (start func is 0xFFFFFF7F9215709E)
+Lilu   patcher: @ (DBG) caught the right kext com.apple.kext.AMDRadeonX5000HWLibs at 0xFFFFFF7F91E97000, invoking handler
+Lilu      mach: @ (DBG) aslr/load slide is 0xffffff7f91e97000
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91e97000 of memory 43216896 size
+Lilu      mach: @ (DBG) found symbol __ZL20CAIL_ASIC_CAPS_TABLE at 0xffffff7f923a9b90 (non-aslr 0x512b90), type e, sect 7, desc 0
+Lilu      mach: @ (DBG) found symbol _CAILAsicCapsInitTable at 0xffffff7f93f120f0 (non-aslr 0x207b0f0), type f, sect 8, desc 0
+Lilu      mach: @ (DBG) found symbol _DeviceCapabilityTbl at 0xffffff7f9239e8a0 (non-aslr 0x5078a0), type f, sect 7, desc 0
+tx_flush:1028: xid 286931 tx stats: # 620 finish 645 enter 10 wait 10 8912us close 69us flush 6164us
+Lilu      mach: @ (DBG) found symbol __ZN16AmdTtlFwServices7getIpFwEjPKcP10_TtlFwInfo at 0xffffff7f91f29630 (non-aslr 0x92630), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91F29630 to 0xFFFFFF7F910EFFE0 diff 0xFFFFFFFFFF1C69AB argument FF1C69AB
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25334 to 0xFFFFFF7F91F29636 diff 0x00000000010042FD argument 10042FD
+Lilu   patcher: @ (DBG) wrapped __ZN16AmdTtlFwServices7getIpFwEjPKcP10_TtlFwInfo
+Lilu      mach: @ (DBG) found symbol _psp_cmd_km_submit at 0xffffff7f91ee3da3 (non-aslr 0x4cda3), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91EE3DA3 to 0xFFFFFF7F910F0B70 diff 0xFFFFFFFFFF20CDC8 argument FF20CDC8
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F90F25348 to 0xFFFFFF7F91EE3DA9 diff 0x0000000000FBEA5C argument FBEA5C
+Lilu   patcher: @ (DBG) wrapped _psp_cmd_km_submit
+Lilu      mach: @ (DBG) found symbol _smu_9_0_1_create_function_pointer_list at 0xffffff7f91ef82ad (non-aslr 0x612ad), type f, sect 1, desc 0
+Lilu   patcher: @ (DBG) from 0xFFFFFF7F91EF82AD to 0xFFFFFF7F910F14F0 diff 0xFFFFFFFFFF1F923E argument FF1F923E
+Lilu   patcher: @ (DBG) routed _smu_9_0_1_create_function_pointer_list
+NootedRed    HWLibs: @ (DBG) Applied DDI Caps patches
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91e97000 of memory 43216896 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+tx_flush:1028: xid 286951 tx stats: # 640 finish 667 enter 10 wait 10 8912us close 67us flush 6157us
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+Lilu      mach: @ (DBG) getRunningPosition 0xffffff7f91e97000 of memory 43216896 size
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+NootedRed  Patcher+: @ (DBG) Applied patches[0]
+NootedRed  Patcher+: @ (DBG) Applied patches[1]
+NootedRed  Patcher+: @ (DBG) Applied patches[2]
+NootedRed      NRed: @ (DBG) Processed AMDRadeonX5000HWLibs
+[3:0:0] [VRAM] mapMemorySpace() !!! Failed to get descriptor for ROM Base.
+[3:0:0][ATOM][LIB] static AmdAsicInit *AmdAsicInit::createAsicInit(AmdAtomFwHelper *) --- tableIndex:0, V 2.1.
+[3:0:0][ATOM][LIB] static AmdDisplayControllerInit *AmdDisplayControllerInit::createDisplayControllerInit(AmdAtomFwHelper *) --- tableIndex:0xd, V 2.1.
+[3:0:0][ATOM][LIB] static AmdAtomFirmwareInfo *AmdAtomFirmwareInfo::createFirmwareInfo(AmdAtomFwHelper *, uint32_t) --- V 3.2.
+[3:0:0][ATOM][LIB] static AmdAtomDcInfo *AmdAtomDcInfo::createDcInfo(AmdAtomFwHelper *, uint32_t) --- V 4.3.
+[3:0:0][ATOM][LIB] static AmdAtomSmuInfo *AmdAtomSmuInfo::createSmuInfo(AmdAtomFwHelper *, uint32_t) --- V 3.1.
+ATOM: static AmdAtomVramInfo *AmdAtomVramInfo::createVramInfo(AmdAtomFwHelper *, uint32_t): ASSERT(0 != tableOffset)
+ATOM: IOReturn AmdAtomFwServices::initializeAtomDataTable(): ASSERT(nullptr != m_vramInfo)
+ATOM: AmdAtomFwServices::AmdAtomFwServices(AmdAtomFwServicesInit *): ASSERT(kIOReturnSuccess == this->initializeAtomDataTable())
+ATOM: virtual IOReturn AmdAtomFwServices::getFirmwareInfo(AtomFirmwareInfo &) const: ASSERT(nullptr != m_vramInfo)
+Lilu   patcher: @ (DBG) invoked at kext loading
+[3:0:0][GPUCAP] populateMemoryConfig() !!! Invalid Memory Type from VBIOS: 0.
+[3:0:0] AMDRadeonX6000_AmdRadeonControllerNavi10::start() !!! Could NOT Create Controller Core Services.
+[3:0:0] [Accel] --- Before TTL:initialize() - BootLoader POST Code=0xffffffff, Ready=0xffffffff
+[3:0:0] [Accel] >>> Calling TTL::initialize()
+       nonlocalMemSizeLimitBytes   = 0x0000000040000000
+       pDoorbellBase               = <ptr>
+       doorbellApertureSizeInBytes = 2097152 (2048 KB)
+[3:0:0] [Accel] [CRITICAL] <<< TTL::initialize() Failed! Error code: 0xe00002bc
+[3:0:0] [Accel] >>> Begin HW diagnostic logging...
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F947CE000 and its name is com.apple.filesystems.exfat (start func is 0xFFFFFF7F947D8E18)
+-- PSP Information --
+
+tOS Status             = 0x0012fffb
+tOS Version            = 0x00110083 (0.17.0.83)
+BootLoader Version     = 0x00000000
+Sec. Policy Version    = 0x0b100022
+BootLoader Ready       = 0xffffffff
+BootLoader POST Code   = 0xffffffff
+FW Validation Info     = 0xffffffff
+----------------------------------------------
+Write Ptr              = 0x00000000
+Read Ptr               = 0x00000000
+----------------------------------------------
+tOS: Program Counter   = 0x00000000
+tOS: Thread Info       = 0x00000000 (threadID 0x0, CPU mode 0x0, ProcessID 0x0, ProcessType 0x0, AbortType 0x0)
+tOS: Exception Address = 0x00000000
+tOS: DFSR              = 0x00000000
+tOS: DFAR              = 0x00000000
+tOS: Panic code        = 0x00000000
+tOS: TA UUID           = 0x00aebaeb
+
+
+[3:0:0] [Accel] <<< End HW diagnostic logging.
+virtual bool IOGraphicsAccelerator2::start(IOService *): configureDevice failed
+IOGraphicsAccelerator::start: Failure exit
+[3:0:0] [Accel] --- Before TTL:initialize() - BootLoader POST Code=0xffffffff, Ready=0xffffffff
+[3:0:0] [Accel] >>> Calling TTL::initialize()
+       nonlocalMemSizeLimitBytes   = 0x0000000040000000
+       pDoorbellBase               = <ptr>
+       doorbellApertureSizeInBytes = 2097152 (2048 KB)
+[3:0:0] [Accel] [CRITICAL] <<< TTL::initialize() Failed! Error code: 0xe00002bc
+[3:0:0] [Accel] >>> Begin HW diagnostic logging...
+ioqueue_depth = 256,   ioscale = 8
+-- PSP Information --
+
+tOS Status             = 0x00130020
+tOS Version            = 0x00110083 (0.17.0.83)
+BootLoader Version     = 0x00000000
+Sec. Policy Version    = 0x0b100022
+BootLoader Ready       = 0xffffffff
+BootLoader POST Code   = 0xffffffff
+FW Validation Info     = 0xffffffff
+----------------------------------------------
+Write Ptr              = 0x00000000
+Read Ptr               = 0x00000000
+----------------------------------------------
+tOS: Program Counter   = 0x00000000
+tOS: Thread Info       = 0x00000000 (threadID 0x0, CPU mode 0x0, ProcessID 0x0, ProcessType 0x0, AbortType 0x0)
+tOS: Exception Address = 0x00000000
+tOS: DFSR              = 0x00000000
+tOS: DFAR              = 0x00000000
+tOS: Panic code        = 0x00000000
+tOS: TA UUID           = 0x00aebaeb
+
+
+[3:0:0] [Accel] <<< End HW diagnostic logging.
+virtual bool IOGraphicsAccelerator2::start(IOService *): configureDevice failed
+IOGraphicsAccelerator::start: Failure exit
+Lilu   patcher: @ (DBG) invoked at kext loading
+tx_flush:1028: xid 286971 tx stats: # 660 finish 690 enter 10 wait 10 8912us close 65us flush 6159us
+Lilu   patcher: @ (DBG) newly loaded kext is 0xFFFFFF7F947DE000 and its name is com.apple.fileutil (start func is 0xFFFFFF7F947F1A0A)
+IOConsoleUsers: time(0) 0->0, lin 0, llk 1, 
+IOConsoleUsers: gIOScreenLockState 3, hs 0, bs 0, now 0, sm 0x0
+KauthFilter_Init:42 (3): KAuth filter listening with status=0
+Couldn't alloc class "RadeonSensor"
+dev_init:294: /dev/disk2: device accelerated crypto: 0 (compiled @ Jun 28 2022 22:32:36)
+dev_init:297: /dev/disk2: device_handle block size 4096 block count 24414063 features 16 internal solidstate
+nx_kernel_mount:1121: /dev/disk2: initializing cache w/hash_size 8192 and cache size 32768
+Sandbox: 2 duplicate reports for bluetoothd deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.Ambien(5094) deny(1) mach-lookup com.apple.windowserve
+nx_kernel_mount:1385: /dev/disk2: checkpoint search: largest xid 359197, best xid 359197 @ 61
+spaceman_metazone_init:238: metazone for device 0 of size 762939 blocks (encrypted: 0-381469 unencrypted: 381469-762939)
+spaceman_datazone_init:491: allocation zone on dev 0 for allocations of 1 blocks starting at paddr 16056320
+spaceman_datazone_init:491: allocation zone on dev 0 for allocations of 2 blocks starting at paddr 7634944
+spaceman_datazone_init:491: allocation zone on dev 0 for allocations of 3 blocks starting at paddr 6750208
+spaceman_datazone_init:491: allocation zone on dev 0 for allocations of 4 blocks starting at paddr 6815744
+sanity_check_alloced_blocks:270: fs_alloc_count mismatch: fs root nodes 56755 extent 5917 omap 705 snap_meta 1 er: 0 udata: 11568986 fs_alloc_count 11632367
+er_state_obj_get_for_recovery:4639: No ER state object for volume sonomaOS \M-b\M^@\M^T Data - rolling is not happening, nothing to recover.
+nx_volume_group_get_volume_indices:6236: Found 2 volumes in group B0D7BBA0-CE10-4862-9D46-846316231AEB
+handle_mount:329: vol-uuid: B0D7BBA0-CE10-4862-9D46-846316231AEB block size: 4096 block count: 24414063 (unencrypted; flags: 0x1; features: 1.0.12)
+handle_mount:342: setting dev block size to 4096 from 512
+nx_volume_group_update:6431: Set volume (role 0x40) to 402 xid 0
+apfs_vfsop_mount:1509: mounted volume: sonomaOS \M-b\M^@\M^T Data
+ioqueue_depth = 256,   ioscale = 8
+nx_volume_group_get_volume_indices:6236: Found 2 volumes in group B0D7BBA0-CE10-4862-9D46-846316231AEB
+sanity_check_alloced_blocks:270: fs_alloc_count mismatch: fs root nodes 6 extent 3 omap 1 snap_meta 1 er: 0 udata: 295 fs_alloc_count 308
+er_state_obj_get_for_recovery:4639: No ER state object for volume Update - rolling is not happening, nothing to recover.
+handle_mount:329: vol-uuid: 50696E38-0E81-4A3C-AC1E-D3178857B1C1 block size: 4096 block count: 24414063 (unencrypted; flags: 0x1; features: 1.0.2)
+handle_mount:342: setting dev block size to 4096 from 512
+nx_volume_group_update:6352: Volume Update role c0 Not a System or data volume
+apfs_vfsop_mount:1509: mounted volume: Update
+ioqueue_depth = 256,   ioscale = 8
+Sandbox: 1 duplicate report for com.apple.Ambien deny(1) mach-lookup com.apple.windowserverSandbox: bluetoothd(113) deny(1) mach-lookup com.apple.server.bluetoot
+tx_flush:1028: xid 286991 tx stats: # 680 finish 712 enter 10 wait 12 8802us close 74us flush 6342us
+Sandbox: trustd(160) deny(1) mach-lookup com.apple.AppSSO.service-xp
+PMRD: assertionsUser 0x41
+PMRD: evaluatePolicy( 8, 0x0 )
+tx_flush:1028: xid 287011 tx stats: # 700 finish 741 enter 10 wait 16 25645us close 271us flush 7589us
