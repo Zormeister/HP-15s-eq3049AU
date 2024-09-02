@@ -8,3 +8,8 @@ This includes helpful resources and debugging for any issues under this system.
 - Kernel_2024-04-16-065924_Zormeisters-MacBook-Pro.panic -- Example of an NMIPI when waking.
 - USBLog.txt -- Example of AppleUSBXHCIPCI/AppleUSBXHCI failing to wake the USB controller.
 - WindowServer_2024-03-18-081232_Zormeisters-MacBook-Pro.userspace_watchdog_timeout -- Example timeout dump of when the AMD Drivers and/or WindowServer presumably fail.
+- ECRAM.bin -- EC RAM dump.
+- EC.dsl -- Decompiled extract from my DSDT.
+- HWMonitor.txt -- A bunch of readings from CPUID HWMonitor
+- dsdt.dsl -- Decompiled DSDT.
+- ivrs.dsl -- AMD IVRS table decompile.

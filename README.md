@@ -33,6 +33,14 @@ This was first observed on the machine after updating the BIOS to F.18.
 
 Using Smokeless UMAF-BETA, I changed the UMA Framebuffer to 2GB.
 
+Quality of Life changes:
+- WLAN power enabled in S3 & S4, basically making the WLAN card still be alive during S3 sleep and Hibernation.
+- Modern Standby disabled, leaving only S3 sleep on.
+- AMD's Core Performance Boost disabled (CBS -> CPU Common Options -> Core Performance Boost).
+
+Quirks after changes:
+- The Keyboard and Trackpad don't wake the machine from S3. (ACPI issue?)
+
 ## What's working:
 - Battery (no cycle count, unfortunately.)
 - iGPU, Barcelo derivative.
